@@ -50,15 +50,15 @@ export default function App() {
       <header className="topbar">
         <Link to="/" className="brand">
           <strong>Meteorology Prep</strong>
-          <span>One shared question bank. Your scores stay on your account.</span>
+          <span className="tagline">One shared question bank. Your scores stay on your account.</span>
         </Link>
-        <nav className="nav">
+        <nav className="nav" aria-label="Main">
           <NavLink to="/" end>
             Topics
           </NavLink>
           <NavLink to="/history">History</NavLink>
           {isAdmin && <NavLink to="/admin">Analysis</NavLink>}
-          <span className="muted">{name}</span>
+          <span className="nav-user muted">{name}</span>
           <button className="ghost danger" onClick={() => supabase.auth.signOut()}>
             Sign out
           </button>

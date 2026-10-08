@@ -32,12 +32,15 @@ body[data-topic] {
   color: #f6f3ec;
 }
 
+body[data-topic] .tagline { display: none; }
+
 body[data-topic] .topbar {
   background: #10141c;
   border: 1px solid rgba(255, 255, 255, 0.2);
   border-radius: 18px;
-  padding: 12px 16px;
-  margin-bottom: 18px;
+  padding: 10px 12px;
+  margin-bottom: 14px;
+  align-items: center;
 }
 
 body[data-topic] .topbar .brand,
@@ -70,10 +73,11 @@ body[data-topic] .page {
 }
 
 body[data-topic] main {
+  --sheet-pad: 22px;
   background: #fffdf9;
   color: #1b2430;
   border-radius: 22px;
-  padding: 0 22px 8px;
+  padding: 0 var(--sheet-pad) 8px;
   border: 1px solid rgba(255, 255, 255, 0.85);
   box-shadow: 0 22px 55px rgba(0, 0, 0, 0.4);
   overflow: hidden;
@@ -83,8 +87,21 @@ body[data-topic] main::before {
   content: "";
   display: block;
   height: 168px;
-  margin: 0 -22px 18px;
+  margin: 0 calc(var(--sheet-pad) * -1) 18px;
   background: var(--scene-ink) var(--scene) center / cover no-repeat;
+}
+
+@media (max-width: 720px) {
+  body[data-topic] .page { padding-top: 10px; }
+  body[data-topic] .topbar {
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 14px;
+    gap: 8px;
+  }
+  body[data-topic] .brand strong { font-size: 1.12rem; }
+  body[data-topic] main { --sheet-pad: 14px; border-radius: 16px; }
+  body[data-topic] main::before { height: 108px; margin-bottom: 12px; }
 }
 
 body[data-topic] main .muted { color: #5c6775; }

@@ -37,6 +37,12 @@ a { color: var(--accent); }
   padding: 28px 20px 64px;
 }
 
+html, body { overflow-x: hidden; }
+
+.stem, .explain, .lead, h1, h2, h3, td, .option span {
+  overflow-wrap: break-word;
+}
+
 .topbar {
   display: flex;
   justify-content: space-between;
@@ -62,11 +68,19 @@ a { color: var(--accent); }
 
 .brand span, .muted { color: var(--muted); }
 
+.nav-user {
+  max-width: 18ch;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
 .nav {
   display: flex;
   gap: 8px;
   align-items: center;
   flex-wrap: wrap;
+  justify-content: flex-end;
 }
 
 .nav a, .ghost, .primary, .option {
@@ -105,7 +119,7 @@ h1, h2 {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr));
   gap: 14px;
 }
 
@@ -185,6 +199,7 @@ input {
   display: flex;
   gap: 12px;
   align-items: flex-start;
+  width: 100%;
 }
 
 .option .key {
@@ -325,8 +340,68 @@ body[data-topic="geology"] { --accent: #4e463c; }
 body[data-topic="english"] { --accent: #6b3f28; }
 
 @media (max-width: 720px) {
-  .topbar { align-items: flex-start; flex-direction: column; }
-  .stem { font-size: 1.25rem; }
+  .page {
+    padding: 14px 14px 40px;
+    padding-left: max(14px, env(safe-area-inset-left));
+    padding-right: max(14px, env(safe-area-inset-right));
+  }
+
+  .topbar {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+    margin-bottom: 16px;
+  }
+
+  .brand strong { font-size: 1.28rem; }
+  .tagline, .nav-user { display: none; }
+
+  .nav {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: stretch;
+    gap: 6px;
+    width: 100%;
+  }
+
+  .nav a, .nav .ghost {
+    flex: 1 1 0;
+    min-width: 0;
+    min-height: 44px;
+    padding: 8px 4px;
+    font-size: 0.9rem;
+    text-align: center;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  h1 { font-size: 1.55rem; }
+  .stem { font-size: 1.2rem; }
+  .lead { margin-bottom: 14px; }
+
   .actions { flex-direction: column; }
-  .actions a, .actions button { text-align: center; }
+  .actions a, .actions .ghost, .actions .primary {
+    width: 100%;
+    text-align: center;
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .quiz-head { align-items: flex-start; }
+  .quiz-nav .ghost,
+  .quiz-nav .primary {
+    flex: 1 1 calc(50% - 10px);
+    min-width: 0;
+    min-height: 44px;
+  }
+  .quiz-nav .primary {
+    flex-basis: 100%;
+    margin-left: 0;
+  }
+
+  .stat b { font-size: 1.35rem; }
+  .score-row { align-items: flex-start; }
 }
