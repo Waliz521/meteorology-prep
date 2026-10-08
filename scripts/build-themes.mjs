@@ -311,42 +311,6 @@ const english = svg(`
   </g>
 `)
 
-function filmHoles(x) {
-  let s = ''
-  for (let yy = 28; yy < 900; yy += 52) {
-    s += `<rect x="${x}" y="${yy}" width="28" height="22" rx="4" fill="#100c08"/>`
-  }
-  return s
-}
-
-const oscar = svg(`
-  <defs>
-    <radialGradient id="spot" cx="50%" cy="20%" r="70%">
-      <stop offset="0" stop-color="#f0d78a"/>
-      <stop offset="0.35" stop-color="#8a6418" stop-opacity="0.55"/>
-      <stop offset="1" stop-color="#070605" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <rect width="1600" height="900" fill="#070605"/>
-  <rect width="1600" height="900" fill="url(#spot)"/>
-  <rect x="0" y="0" width="78" height="900" fill="#e2b340"/>
-  <rect x="1522" y="0" width="78" height="900" fill="#e2b340"/>
-  ${filmHoles(25)}
-  ${filmHoles(1547)}
-  <g fill="#f3d78a">
-    <polygon points="300,120 318,168 370,168 328,198 344,248 300,218 256,248 272,198 230,168 282,168"/>
-    <polygon points="1250,220 1266,262 1312,262 1276,288 1290,332 1250,306 1210,332 1224,288 1188,262 1234,262"/>
-    <polygon points="1380,620 1398,668 1450,668 1408,698 1424,748 1380,718 1336,748 1352,698 1310,668 1362,668"/>
-    <polygon points="220,640 234,674 272,674 242,696 252,732 220,710 188,732 198,696 168,674 206,674"/>
-  </g>
-  <g transform="translate(800 470)" fill="#f0c95a">
-    <circle cy="-150" r="36"/>
-    <path d="M-28 -120 L-70 40 L-36 150 L36 150 L70 40 L28 -120 Z"/>
-    <rect x="-78" y="150" width="156" height="22" rx="4"/>
-    <rect x="-90" y="176" width="180" height="16"/>
-  </g>
-`)
-
 const files = {
   meteorology,
   climatology,
@@ -357,7 +321,6 @@ const files = {
   seismology,
   geology,
   english,
-  oscar,
 }
 
 for (const [name, markup] of Object.entries(files)) {

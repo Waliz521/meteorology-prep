@@ -11,7 +11,6 @@ const TOPIC_TITLES: Record<string, string> = {
   seismology: 'Seismology',
   geology: 'Basic Geology',
   english: 'English',
-  oscar: 'Oscars',
 }
 
 export function topicTitle(slug: string) {

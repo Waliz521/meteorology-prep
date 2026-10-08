@@ -323,7 +323,6 @@ body[data-topic="research"] { --accent: #7a3040; }
 body[data-topic="seismology"] { --accent: #9a3e1c; }
 body[data-topic="geology"] { --accent: #4e463c; }
 body[data-topic="english"] { --accent: #6b3f28; }
-body[data-topic="oscar"] { --accent: #8a6410; }
 
 @media (max-width: 720px) {
   .topbar { align-items: flex-start; flex-direction: column; }

@@ -49,11 +49,22 @@ const client = new pg.Client({
 await client.connect()
 await client.query(adminSql)
 await client.query(`
-  insert into public.topics (slug, title, audience, sort_order)
-  values ('oscar', 'Oscars', 'both', 0)
-  on conflict (slug) do update
-  set title = excluded.title, audience = excluded.audience, sort_order = excluded.sort_order
+  delete from public.attempt_answers
+  where question_id in (
+    select q.id from public.questions q
+    join public.topics t on t.id = q.topic_id
+    where t.slug = 'oscar'
+  )
 `)
+await client.query(`
+  delete from public.attempts
+  where topic_id in (select id from public.topics where slug = 'oscar')
+`)
+await client.query(`
+  delete from public.questions
+  where topic_id in (select id from public.topics where slug = 'oscar')
+`)
+await client.query(`delete from public.topics where slug = 'oscar'`)
 
 const files = fs.readdirSync(dataDir).filter((name) => name.endsWith('.json'))
 for (const file of files) {

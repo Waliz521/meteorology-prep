@@ -27,9 +27,6 @@ body[data-topic="geology"] { --scene: url("/themes/geology.svg"); --scene-ink: #
 .card[data-topic="english"],
 body[data-topic="english"] { --scene: url("/themes/english.svg"); --scene-ink: #1c120e; }
 
-.card[data-topic="oscar"],
-body[data-topic="oscar"] { --scene: url("/themes/oscar.svg"); --scene-ink: #070605; }
-
 body[data-topic] {
   background: var(--scene-ink) var(--scene) center / cover no-repeat fixed;
   color: #f6f3ec;
