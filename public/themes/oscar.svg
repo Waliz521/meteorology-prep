@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+
+  <defs>
+    <radialGradient id="spot" cx="50%" cy="20%" r="70%">
+      <stop offset="0" stop-color="#f0d78a"/>
+      <stop offset="0.35" stop-color="#8a6418" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#070605" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="#070605"/>
+  <rect width="1600" height="900" fill="url(#spot)"/>
+  <rect x="0" y="0" width="78" height="900" fill="#e2b340"/>
+  <rect x="1522" y="0" width="78" height="900" fill="#e2b340"/>
+  <rect x="25" y="28" width="28" height="22" rx="4" fill="#100c08"/><rect x="25" y="80" width="28" height="22" rx="4" fill="#100c08"/><rect x="25" y="132" width="28" height="22" rx="4" fill="#100c08"/><rect x="25" y="184" width="28" height="22" rx="4" fill="#100c08"/><rect x="25" y="236" width="28" height="22" rx="4" fill="#100c08"/><rect x="25" y="288" width="28" height="22" rx="4" fill="#100c08"/><rect x="25" y="340" width="28" height="22" rx="4" fill="#100c08"/><rect x="25" y="392" width="28" height="22" rx="4" fill="#100c08"/><rect x="25" y="444" width="28" height="22" rx="4" fill="#100c08"/><rect x="25" y="496" width="28" height="22" rx="4" fill="#100c08"/><rect x="25" y="548" width="28" height="22" rx="4" fill="#100c08"/><rect x="25" y="600" width="28" height="22" rx="4" fill="#100c08"/><rect x="25" y="652" width="28" height="22" rx="4" fill="#100c08"/><rect x="25" y="704" width="28" height="22" rx="4" fill="#100c08"/><rect x="25" y="756" width="28" height="22" rx="4" fill="#100c08"/><rect x="25" y="808" width="28" height="22" rx="4" fill="#100c08"/><rect x="25" y="860" width="28" height="22" rx="4" fill="#100c08"/>
+  <rect x="1547" y="28" width="28" height="22" rx="4" fill="#100c08"/><rect x="1547" y="80" width="28" height="22" rx="4" fill="#100c08"/><rect x="1547" y="132" width="28" height="22" rx="4" fill="#100c08"/><rect x="1547" y="184" width="28" height="22" rx="4" fill="#100c08"/><rect x="1547" y="236" width="28" height="22" rx="4" fill="#100c08"/><rect x="1547" y="288" width="28" height="22" rx="4" fill="#100c08"/><rect x="1547" y="340" width="28" height="22" rx="4" fill="#100c08"/><rect x="1547" y="392" width="28" height="22" rx="4" fill="#100c08"/><rect x="1547" y="444" width="28" height="22" rx="4" fill="#100c08"/><rect x="1547" y="496" width="28" height="22" rx="4" fill="#100c08"/><rect x="1547" y="548" width="28" height="22" rx="4" fill="#100c08"/><rect x="1547" y="600" width="28" height="22" rx="4" fill="#100c08"/><rect x="1547" y="652" width="28" height="22" rx="4" fill="#100c08"/><rect x="1547" y="704" width="28" height="22" rx="4" fill="#100c08"/><rect x="1547" y="756" width="28" height="22" rx="4" fill="#100c08"/><rect x="1547" y="808" width="28" height="22" rx="4" fill="#100c08"/><rect x="1547" y="860" width="28" height="22" rx="4" fill="#100c08"/>
+  <g fill="#f3d78a">
+    <polygon points="300,120 318,168 370,168 328,198 344,248 300,218 256,248 272,198 230,168 282,168"/>
+    <polygon points="1250,220 1266,262 1312,262 1276,288 1290,332 1250,306 1210,332 1224,288 1188,262 1234,262"/>
+    <polygon points="1380,620 1398,668 1450,668 1408,698 1424,748 1380,718 1336,748 1352,698 1310,668 1362,668"/>
+    <polygon points="220,640 234,674 272,674 242,696 252,732 220,710 188,732 198,696 168,674 206,674"/>
+  </g>
+  <g transform="translate(800 470)" fill="#f0c95a">
+    <circle cy="-150" r="36"/>
+    <path d="M-28 -120 L-70 40 L-36 150 L36 150 L70 40 L28 -120 Z"/>
+    <rect x="-78" y="150" width="156" height="22" rx="4"/>
+    <rect x="-90" y="176" width="180" height="16"/>
+  </g>
+
+</svg>

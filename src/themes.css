@@ -1,0 +1,109 @@
+/* Quiz scenes. The picture fills the page; the question sits on a light sheet. */
+
+.card[data-topic="meteorology"],
+body[data-topic="meteorology"] { --scene: url("/themes/meteorology.svg"); --scene-ink: #071833; }
+
+.card[data-topic="climatology"],
+body[data-topic="climatology"] { --scene: url("/themes/climatology.svg"); --scene-ink: #0b3f86; }
+
+.card[data-topic="physics"],
+body[data-topic="physics"] { --scene: url("/themes/physics.svg"); --scene-ink: #07091a; }
+
+.card[data-topic="mathematics"],
+body[data-topic="mathematics"] { --scene: url("/themes/mathematics.svg"); --scene-ink: #163028; }
+
+.card[data-topic="environment"],
+body[data-topic="environment"] { --scene: url("/themes/environment.svg"); --scene-ink: #0c3d22; }
+
+.card[data-topic="research"],
+body[data-topic="research"] { --scene: url("/themes/research.svg"); --scene-ink: #1a1016; }
+
+.card[data-topic="seismology"],
+body[data-topic="seismology"] { --scene: url("/themes/seismology.svg"); --scene-ink: #140c09; }
+
+.card[data-topic="geology"],
+body[data-topic="geology"] { --scene: url("/themes/geology.svg"); --scene-ink: #2a2420; }
+
+.card[data-topic="english"],
+body[data-topic="english"] { --scene: url("/themes/english.svg"); --scene-ink: #1c120e; }
+
+.card[data-topic="oscar"],
+body[data-topic="oscar"] { --scene: url("/themes/oscar.svg"); --scene-ink: #070605; }
+
+body[data-topic] {
+  background: var(--scene-ink) var(--scene) center / cover no-repeat fixed;
+  color: #f6f3ec;
+}
+
+body[data-topic] .topbar {
+  background: #10141c;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 18px;
+  padding: 12px 16px;
+  margin-bottom: 18px;
+}
+
+body[data-topic] .topbar .brand,
+body[data-topic] .topbar .brand strong,
+body[data-topic] .topbar .brand span,
+body[data-topic] .topbar .muted {
+  color: #f6f3ec;
+}
+
+body[data-topic] .topbar .nav a,
+body[data-topic] .topbar .ghost {
+  color: #f6f3ec;
+  border-color: rgba(255, 255, 255, 0.35);
+  background: rgba(0, 0, 0, 0.25);
+}
+
+body[data-topic] .topbar .nav a.active {
+  background: #fff;
+  color: #14181f;
+  border-color: #fff;
+}
+
+body[data-topic] .topbar .ghost.danger {
+  color: #ffd2cc;
+  border-color: rgba(255, 210, 204, 0.55);
+}
+
+body[data-topic] .page {
+  max-width: 920px;
+}
+
+body[data-topic] main {
+  background: #fffdf9;
+  color: #1b2430;
+  border-radius: 22px;
+  padding: 0 22px 8px;
+  border: 1px solid rgba(255, 255, 255, 0.85);
+  box-shadow: 0 22px 55px rgba(0, 0, 0, 0.4);
+  overflow: hidden;
+}
+
+body[data-topic] main::before {
+  content: "";
+  display: block;
+  height: 168px;
+  margin: 0 -22px 18px;
+  background: var(--scene-ink) var(--scene) center / cover no-repeat;
+}
+
+body[data-topic] main .muted { color: #5c6775; }
+
+body[data-topic] main .option { background: #fff; }
+
+.card[data-topic] {
+  position: relative;
+  overflow: hidden;
+  padding-top: 0;
+}
+
+.card[data-topic]::before {
+  content: "";
+  display: block;
+  height: 92px;
+  margin: 0 -18px 12px;
+  background: var(--scene-ink) var(--scene) center / cover no-repeat;
+}

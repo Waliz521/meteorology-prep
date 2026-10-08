@@ -1,0 +1,452 @@
+[
+  {
+    "stem": "The SI unit of force is the",
+    "a": "joule",
+    "b": "watt",
+    "c": "newton",
+    "d": "pascal",
+    "correct": "C",
+    "explanation": "Force is measured in newtons. The joule is energy, the watt is power, and the pascal is pressure."
+  },
+  {
+    "stem": "Speed is",
+    "a": "force divided by area",
+    "b": "mass times velocity",
+    "c": "energy divided by temperature",
+    "d": "distance divided by time",
+    "correct": "D",
+    "explanation": "Speed tells how much distance is covered in a given time. Force divided by area is pressure."
+  },
+  {
+    "stem": "Velocity differs from speed because velocity also includes",
+    "a": "temperature",
+    "b": "humidity",
+    "c": "colour",
+    "d": "direction",
+    "correct": "D",
+    "explanation": "Speed is a magnitude only. Velocity is speed in a stated direction, so it is a vector."
+  },
+  {
+    "stem": "Newton's first law says that an object keeps a constant velocity unless",
+    "a": "time passes",
+    "b": "it has mass",
+    "c": "a net force acts on it",
+    "d": "it is made of metal",
+    "correct": "C",
+    "explanation": "Without a net force, an object stays at rest or continues in a straight line at constant speed. Mass alone does not change that motion."
+  },
+  {
+    "stem": "Newton's second law can be written as",
+    "a": "F = ma",
+    "b": "P = IV",
+    "c": "V = IR",
+    "d": "E = mc",
+    "correct": "A",
+    "explanation": "Net force equals mass times acceleration. V = IR is Ohm's law, and P = IV is electrical power."
+  },
+  {
+    "stem": "The acceleration due to gravity near Earth's surface is about",
+    "a": "9.8 m/s2",
+    "b": "98 m/s2",
+    "c": "980 m/s2",
+    "d": "1 m/s2",
+    "correct": "A",
+    "explanation": "A free-falling object near the surface accelerates at about 9.8 metres per second squared, often rounded to 10 in simple estimates."
+  },
+  {
+    "stem": "Weight is",
+    "a": "volume times density only in water",
+    "b": "always measured in kilograms",
+    "c": "the same quantity as mass",
+    "d": "the gravitational force on a mass",
+    "correct": "D",
+    "explanation": "Mass is the amount of matter, in kilograms. Weight is the pull of gravity on that mass, so it is a force in newtons."
+  },
+  {
+    "stem": "Pressure is",
+    "a": "speed divided by force",
+    "b": "force divided by area",
+    "c": "mass times area",
+    "d": "distance times time",
+    "correct": "B",
+    "explanation": "The same force spread over a smaller area produces a higher pressure. Atmospheric pressure is the weight of the air column on a unit area."
+  },
+  {
+    "stem": "The SI unit of pressure is the",
+    "a": "newton",
+    "b": "joule",
+    "c": "pascal",
+    "d": "hertz",
+    "correct": "C",
+    "explanation": "One pascal is one newton per square metre. A hectopascal, used on weather maps, is 100 pascals."
+  },
+  {
+    "stem": "Work is done when",
+    "a": "an object is held still",
+    "b": "a colour changes",
+    "c": "mass is only measured",
+    "d": "a force moves an object through a distance",
+    "correct": "D",
+    "explanation": "In physics, work is force times the distance moved in the direction of the force. Holding an object still against gravity involves a force, but no distance, so no work is done in that sense."
+  },
+  {
+    "stem": "The unit of energy is the",
+    "a": "joule",
+    "b": "ampere",
+    "c": "watt",
+    "d": "newton",
+    "correct": "A",
+    "explanation": "Energy and work are measured in joules. The watt is a unit of power, which is energy per unit time."
+  },
+  {
+    "stem": "Power is",
+    "a": "pressure times area only",
+    "b": "energy divided by time",
+    "c": "force times mass",
+    "d": "distance divided by energy",
+    "correct": "B",
+    "explanation": "Power is the rate of doing work or transferring energy. One watt is one joule per second."
+  },
+  {
+    "stem": "Heat and temperature differ because heat is",
+    "a": "a measure of hotness only",
+    "b": "energy transferred because of a temperature difference",
+    "c": "always equal to Celsius degrees",
+    "d": "a unit of pressure",
+    "correct": "B",
+    "explanation": "Temperature measures how hot something is. Heat is energy moving from a hotter place to a cooler one."
+  },
+  {
+    "stem": "Conduction is heat transfer",
+    "a": "by electromagnetic waves",
+    "b": "through a material without the material itself moving as a whole",
+    "c": "only in a vacuum",
+    "d": "by the movement of a fluid",
+    "correct": "B",
+    "explanation": "In conduction, neighbouring particles pass energy along. Convection needs a moving fluid, and radiation can travel through a vacuum."
+  },
+  {
+    "stem": "Convection transfers heat mainly by",
+    "a": "sound waves only",
+    "b": "reflection from a mirror",
+    "c": "movement of a fluid",
+    "d": "a metal rod that stays still",
+    "correct": "C",
+    "explanation": "Warm air or water rises and cooler fluid sinks, carrying heat with the flow. That circulating motion is convection."
+  },
+  {
+    "stem": "Heat can travel through empty space by",
+    "a": "friction only",
+    "b": "conduction",
+    "c": "convection",
+    "d": "radiation",
+    "correct": "D",
+    "explanation": "Radiation does not need a material. The Sun heats Earth by radiation across space. Conduction and convection both need matter."
+  },
+  {
+    "stem": "Latent heat is the heat",
+    "a": "that changes temperature only",
+    "b": "absorbed or released during a change of state at constant temperature",
+    "c": "lost by friction in a wire",
+    "d": "stored only in magnets",
+    "correct": "B",
+    "explanation": "When ice melts or water evaporates, heat is taken in without an immediate temperature rise. That hidden heat is latent heat."
+  },
+  {
+    "stem": "Boyle's law says that, at constant temperature, the pressure of a fixed mass of gas",
+    "a": "is inversely proportional to its volume",
+    "b": "does not depend on volume",
+    "c": "is always zero",
+    "d": "is proportional to its volume",
+    "correct": "A",
+    "explanation": "If the gas is compressed into a smaller volume at the same temperature, its pressure rises. Pressure times volume stays constant."
+  },
+  {
+    "stem": "Charles's law says that, at constant pressure, the volume of a fixed mass of gas",
+    "a": "is independent of temperature",
+    "b": "falls as the gas is heated",
+    "c": "is proportional to its absolute temperature",
+    "d": "is inversely proportional to temperature",
+    "correct": "C",
+    "explanation": "Heating a gas at constant pressure makes it expand. The volume is proportional to the kelvin temperature, not the Celsius reading."
+  },
+  {
+    "stem": "Absolute zero is",
+    "a": "273 K",
+    "b": "0°C",
+    "c": "100°C",
+    "d": "0 K",
+    "correct": "D",
+    "explanation": "Zero kelvin is absolute zero, the lower limit of temperature. Zero degrees Celsius is the freezing point of water, equal to 273 kelvin."
+  },
+  {
+    "stem": "A temperature of 0°C is about",
+    "a": "0 K",
+    "b": "100 K",
+    "c": "273 K",
+    "d": "373 K",
+    "correct": "C",
+    "explanation": "To convert Celsius to kelvin, add 273. The freezing point of water is about 273 K, and the boiling point is about 373 K."
+  },
+  {
+    "stem": "The frequency of a wave is",
+    "a": "the height of a crest only",
+    "b": "the distance between crests",
+    "c": "the speed of light always",
+    "d": "the number of cycles per second",
+    "correct": "D",
+    "explanation": "Frequency counts how many waves pass a point each second and is measured in hertz. The distance between crests is the wavelength."
+  },
+  {
+    "stem": "The unit of frequency is the",
+    "a": "hertz",
+    "b": "pascal",
+    "c": "metre",
+    "d": "second",
+    "correct": "A",
+    "explanation": "One hertz is one cycle per second. The metre measures length, and the pascal measures pressure."
+  },
+  {
+    "stem": "Sound needs",
+    "a": "no matter of any kind",
+    "b": "a vacuum",
+    "c": "a material medium",
+    "d": "a magnetic field only",
+    "correct": "C",
+    "explanation": "Sound is a mechanical wave, so it travels through air, water, or a solid. It does not travel through a vacuum."
+  },
+  {
+    "stem": "Light can travel through",
+    "a": "a vacuum",
+    "b": "only water",
+    "c": "only steel",
+    "d": "only moving air",
+    "correct": "A",
+    "explanation": "Light is an electromagnetic wave and does not need a medium. That is why sunlight reaches Earth across space."
+  },
+  {
+    "stem": "A convex lens can",
+    "a": "converge light to a focus",
+    "b": "stop all light",
+    "c": "change the colour of every ray",
+    "d": "only diverge light",
+    "correct": "A",
+    "explanation": "A convex lens is thicker in the middle and brings parallel rays toward a focal point. A concave lens spreads rays apart."
+  },
+  {
+    "stem": "Ohm's law for a metallic conductor is",
+    "a": "F = ma",
+    "b": "v = fλ",
+    "c": "V = IR",
+    "d": "P = F/A",
+    "correct": "C",
+    "explanation": "The potential difference V equals current I times resistance R. The other equations are pressure, Newton's second law, and the wave equation."
+  },
+  {
+    "stem": "The unit of electric current is the",
+    "a": "watt",
+    "b": "volt",
+    "c": "ohm",
+    "d": "ampere",
+    "correct": "D",
+    "explanation": "Current is measured in amperes. The volt measures potential difference, and the ohm measures resistance."
+  },
+  {
+    "stem": "In a series circuit, the current",
+    "a": "is the same through each component",
+    "b": "splits equally by definition at every point",
+    "c": "is always zero",
+    "d": "depends only on the colour of the wire",
+    "correct": "A",
+    "explanation": "Components in series share one path, so the same current passes through each of them. The voltages across them can differ."
+  },
+  {
+    "stem": "In a parallel circuit, the voltage across each branch",
+    "a": "is the same",
+    "b": "must be different",
+    "c": "cannot be measured",
+    "d": "is zero",
+    "correct": "A",
+    "explanation": "Parallel branches are connected across the same two points, so they have the same potential difference. The currents in the branches can differ."
+  },
+  {
+    "stem": "Like magnetic poles",
+    "a": "have no effect",
+    "b": "always cancel gravity",
+    "c": "attract",
+    "d": "repel",
+    "correct": "D",
+    "explanation": "Two north poles, or two south poles, push apart. A north and a south pole attract."
+  },
+  {
+    "stem": "The north pole of a magnet attracts",
+    "a": "only copper",
+    "b": "another north pole",
+    "c": "a south pole",
+    "d": "every unmagnetised plastic",
+    "correct": "C",
+    "explanation": "Opposite poles attract. A north pole is attracted to a south pole and repelled by another north pole."
+  },
+  {
+    "stem": "Density is",
+    "a": "mass divided by volume",
+    "b": "volume divided by weight",
+    "c": "force times time",
+    "d": "area divided by mass",
+    "correct": "A",
+    "explanation": "Density tells how much mass is packed into a unit volume. A denser material has more mass in the same space."
+  },
+  {
+    "stem": "An object floats in a liquid when its average density is",
+    "a": "less than the liquid",
+    "b": "exactly twice the liquid",
+    "c": "zero",
+    "d": "greater than the liquid",
+    "correct": "A",
+    "explanation": "If the object is less dense than the liquid, the upward force can balance its weight and it floats. A denser object sinks."
+  },
+  {
+    "stem": "Specific heat capacity is the heat needed to raise the temperature of",
+    "a": "a gas to absolute zero",
+    "b": "a magnet by its poles",
+    "c": "any object by 100 degrees",
+    "d": "unit mass by one degree",
+    "correct": "D",
+    "explanation": "Specific heat is a property of the material: the energy required for one kilogram to warm by one degree. Water has a high specific heat."
+  },
+  {
+    "stem": "Evaporation is",
+    "a": "a change of colour",
+    "b": "liquid changing to gas",
+    "c": "gas changing to solid only",
+    "d": "solid breaking into dust",
+    "correct": "B",
+    "explanation": "Evaporation is a liquid becoming vapour. Condensation is the reverse change, from vapour to liquid."
+  },
+  {
+    "stem": "Condensation releases",
+    "a": "latent heat",
+    "b": "no energy of any kind",
+    "c": "only sound",
+    "d": "electric charge by definition",
+    "correct": "A",
+    "explanation": "When vapour becomes liquid, the latent heat that was stored during evaporation is given out. That release warms the surrounding air in a cloud."
+  },
+  {
+    "stem": "A wave's wavelength is",
+    "a": "the distance between two neighbouring crests",
+    "b": "the loudness",
+    "c": "the number of cycles per second",
+    "d": "the time for one cycle",
+    "correct": "A",
+    "explanation": "Wavelength is a length, from one crest to the next. The time for one cycle is the period, and the number of cycles per second is the frequency."
+  },
+  {
+    "stem": "Wave speed equals",
+    "a": "wavelength divided by force",
+    "b": "amplitude times pressure",
+    "c": "frequency times wavelength",
+    "d": "frequency divided by mass",
+    "correct": "C",
+    "explanation": "The basic wave relation is speed = frequency times wavelength. A higher frequency or a longer wavelength means a faster wave if the other quantity stays fixed."
+  },
+  {
+    "stem": "Friction is a force that",
+    "a": "increases kinetic energy without limit",
+    "b": "opposes sliding",
+    "c": "always speeds objects up",
+    "d": "acts only in a vacuum",
+    "correct": "B",
+    "explanation": "Friction resists relative motion between surfaces. It often converts mechanical energy into heat."
+  },
+  {
+    "stem": "Kinetic energy is the energy of",
+    "a": "motion",
+    "b": "position only",
+    "c": "chemical bonds only",
+    "d": "a stationary compressed spring only",
+    "correct": "A",
+    "explanation": "A moving object has kinetic energy. Energy due to position or shape is potential energy."
+  },
+  {
+    "stem": "Gravitational potential energy increases when an object is",
+    "a": "lifted",
+    "b": "painted",
+    "c": "cooled slightly",
+    "d": "lowered",
+    "correct": "A",
+    "explanation": "Raising an object gives it more gravitational potential energy. Lowering it reduces that stored energy."
+  },
+  {
+    "stem": "The unit of electric resistance is the",
+    "a": "ohm",
+    "b": "joule",
+    "c": "ampere",
+    "d": "volt",
+    "correct": "A",
+    "explanation": "Resistance is measured in ohms. From Ohm's law, one ohm is one volt per ampere."
+  },
+  {
+    "stem": "A conductor differs from an insulator because a conductor",
+    "a": "cannot be heated",
+    "b": "allows charge to move through it easily",
+    "c": "blocks every charge",
+    "d": "has no atoms",
+    "correct": "B",
+    "explanation": "Metals are conductors because charges move through them readily. Rubber and dry air are insulators and resist that flow."
+  },
+  {
+    "stem": "The boiling point of pure water at standard sea-level pressure is",
+    "a": "0°C",
+    "b": "32°C",
+    "c": "90°C",
+    "d": "100°C",
+    "correct": "D",
+    "explanation": "At standard atmospheric pressure, pure water boils at 100°C and freezes at 0°C. Lower pressure lowers the boiling point."
+  },
+  {
+    "stem": "The freezing point of pure water at standard pressure is",
+    "a": "4°C",
+    "b": "32°C",
+    "c": "100°C",
+    "d": "0°C",
+    "correct": "D",
+    "explanation": "Pure water freezes at 0°C under standard pressure. 100°C is the boiling point, not the freezing point."
+  },
+  {
+    "stem": "Momentum is",
+    "a": "energy times area",
+    "b": "pressure times volume only",
+    "c": "mass times velocity",
+    "d": "force divided by time",
+    "correct": "C",
+    "explanation": "Momentum is mass times velocity and points in the direction of the velocity. A heavier or faster object has more momentum."
+  },
+  {
+    "stem": "An echo is",
+    "a": "heat conducted through metal",
+    "b": "reflected sound",
+    "c": "refracted light only",
+    "d": "a magnetic field",
+    "correct": "B",
+    "explanation": "An echo is sound that bounces off a surface and returns. Reflection of light produces a mirror image, not an echo."
+  },
+  {
+    "stem": "White light passed through a prism is",
+    "a": "destroyed",
+    "b": "separated into a spectrum of colours",
+    "c": "turned into sound",
+    "d": "made heavier",
+    "correct": "B",
+    "explanation": "Different colours bend by different amounts in glass, so a prism spreads white light into a spectrum. The light is dispersed, not destroyed."
+  },
+  {
+    "stem": "The SI unit of mass is the",
+    "a": "kilogram",
+    "b": "joule",
+    "c": "metre",
+    "d": "newton",
+    "correct": "A",
+    "explanation": "Mass is measured in kilograms. The newton is the unit of force, which includes weight."
+  }
+]

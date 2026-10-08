@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+
+  <rect width="1600" height="900" fill="#1c120e"/>
+  <g stroke="#f3e6d4" stroke-width="1" opacity="0.15">
+    <path d="M40 60 H1560"/><path d="M40 106 H1560"/><path d="M40 152 H1560"/><path d="M40 198 H1560"/><path d="M40 244 H1560"/><path d="M40 290 H1560"/><path d="M40 336 H1560"/><path d="M40 382 H1560"/><path d="M40 428 H1560"/><path d="M40 474 H1560"/><path d="M40 520 H1560"/><path d="M40 566 H1560"/><path d="M40 612 H1560"/><path d="M40 658 H1560"/><path d="M40 704 H1560"/><path d="M40 750 H1560"/><path d="M40 796 H1560"/><path d="M40 842 H1560"/>
+  </g>
+  <g fill="#f6ead8" font-family="Georgia, 'Times New Roman', serif">
+    <text x="120" y="160" font-size="140" opacity="0.92">A</text><text x="380" y="300" font-size="120" opacity="0.92">b</text><text x="640" y="180" font-size="150" opacity="0.92">?</text><text x="980" y="260" font-size="130" opacity="0.92">Q</text><text x="200" y="560" font-size="100" opacity="0.92">is</text><text x="520" y="640" font-size="110" opacity="0.92">the</text><text x="900" y="520" font-size="140" opacity="0.92">;</text><text x="1280" y="180" font-size="130" opacity="0.92">"</text><text x="1400" y="480" font-size="120" opacity="0.92">e</text><text x="1180" y="700" font-size="120" opacity="0.92">&amp;</text><text x="760" y="800" font-size="90" opacity="0.92">of</text><text x="80" y="820" font-size="110" opacity="0.92">R</text>
+  </g>
+
+</svg>

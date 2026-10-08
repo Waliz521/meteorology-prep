@@ -1,0 +1,452 @@
+[
+  {
+    "stem": "Climate is best described as",
+    "a": "the weather at one moment",
+    "b": "the average weather of a place over a long period",
+    "c": "a single thunderstorm",
+    "d": "the reading of one thermometer",
+    "correct": "B",
+    "explanation": "Climate is the long-term pattern, often summarised over about 30 years. Weather is the state of the atmosphere at a particular time."
+  },
+  {
+    "stem": "A climatic normal is commonly based on a period of about",
+    "a": "1 week",
+    "b": "30 years",
+    "c": "500 years",
+    "d": "1 day",
+    "correct": "B",
+    "explanation": "Meteorological services use a 30-year period to describe the average climate of a station. One day or one week is weather, not a climate normal."
+  },
+  {
+    "stem": "The Köppen system classifies climates mainly by",
+    "a": "ocean depth",
+    "b": "the age of rocks",
+    "c": "temperature and precipitation patterns",
+    "d": "the names of local winds only",
+    "correct": "C",
+    "explanation": "Köppen groups climates using temperature and rainfall, and how they vary through the year. Vegetation zones were part of the original idea, but the letters are based on those climate data."
+  },
+  {
+    "stem": "A tropical rainy climate in the Köppen system is given the letter",
+    "a": "E",
+    "b": "A",
+    "c": "B",
+    "d": "D",
+    "correct": "B",
+    "explanation": "A is tropical, B is dry, C is mild mid-latitude, D is severe continental winter, and E is polar. The letters are a standard part of the scheme."
+  },
+  {
+    "stem": "In the Köppen system, the letter B indicates a climate that is",
+    "a": "polar",
+    "b": "dry",
+    "c": "always covered by rainforest",
+    "d": "defined only by snow depth",
+    "correct": "B",
+    "explanation": "B climates are arid or semi-arid, where evaporation exceeds precipitation enough to produce desert or steppe. Polar climates are E."
+  },
+  {
+    "stem": "A continental climate, compared with a maritime climate at a similar latitude, usually has",
+    "a": "a larger annual temperature range",
+    "b": "no seasons",
+    "c": "rain every hour",
+    "d": "a smaller range of temperature",
+    "correct": "A",
+    "explanation": "Land heats and cools faster than the sea, so inland places have hotter summers and colder winters. Coasts are moderated by the ocean."
+  },
+  {
+    "stem": "A maritime climate is moderated by",
+    "a": "desert sand alone",
+    "b": "the absence of water vapour",
+    "c": "the nearby ocean",
+    "d": "distance from every sea",
+    "correct": "C",
+    "explanation": "Water changes temperature slowly, so coastal climates have milder winters and cooler summers than inland places at the same latitude."
+  },
+  {
+    "stem": "The Intertropical Convergence Zone is",
+    "a": "a type of fog instrument",
+    "b": "a belt of converging trade winds near the equator",
+    "c": "a polar ice cap",
+    "d": "a jet stream at 60 degrees only",
+    "correct": "B",
+    "explanation": "The ITCZ is where the trade winds meet and air rises, producing cloud and rain. It shifts north and south with the seasons."
+  },
+  {
+    "stem": "Monsoon climates are characterised by",
+    "a": "a seasonal reversal of wind and a wet and a dry season",
+    "b": "rain distributed evenly every day of the year",
+    "c": "no wind at any time",
+    "d": "permanent snow at sea level",
+    "correct": "A",
+    "explanation": "A monsoon climate has a marked seasonal change in wind. The summer flow from the sea brings most of the rain, and the winter flow is drier."
+  },
+  {
+    "stem": "Most of the summer rainfall of eastern Pakistan is brought by",
+    "a": "a daily sea breeze only a few metres deep",
+    "b": "the polar easterlies",
+    "c": "radiation fog",
+    "d": "the summer monsoon",
+    "correct": "D",
+    "explanation": "The South Asian summer monsoon carries moisture from the Arabian Sea and the Bay of Bengal. It is the main source of rain for the eastern plains."
+  },
+  {
+    "stem": "Winter precipitation in northern Pakistan is associated mainly with",
+    "a": "a permanent equatorial low sitting over Karachi",
+    "b": "the ozone hole",
+    "c": "western disturbances",
+    "d": "the summer monsoon",
+    "correct": "C",
+    "explanation": "Western disturbances are mid-latitude systems that travel from the Mediterranean region and bring winter rain and snow to the north. The summer monsoon is a different season."
+  },
+  {
+    "stem": "Much of Pakistan's climate can be described as",
+    "a": "always humid with no dry season anywhere",
+    "b": "arid to semi-arid",
+    "c": "equatorial rainforest",
+    "d": "permanent ice cap at sea level",
+    "correct": "B",
+    "explanation": "Large parts of Sindh, Balochistan, and the south are dry. Wetter conditions occur in the northern highlands and in some monsoon-affected eastern areas."
+  },
+  {
+    "stem": "The summer monsoon in Pakistan typically peaks during",
+    "a": "December and January",
+    "b": "July to September",
+    "c": "a single hour in March",
+    "d": "only leap years",
+    "correct": "B",
+    "explanation": "Monsoon rains over Pakistan are concentrated in mid to late summer, especially July through September. December and January belong to the winter disturbance season."
+  },
+  {
+    "stem": "El Niño is a climate pattern linked to",
+    "a": "a permanent freeze of the Atlantic",
+    "b": "the daily sea breeze",
+    "c": "a change in the length of the day",
+    "d": "unusually warm water in the central and eastern tropical Pacific",
+    "correct": "D",
+    "explanation": "During El Niño, sea-surface temperatures in the equatorial Pacific are warmer than average. The change can shift rainfall patterns in many parts of the world."
+  },
+  {
+    "stem": "La Niña is, in broad terms,",
+    "a": "a type of cloud",
+    "b": "a unit of pressure",
+    "c": "the cool phase of the tropical Pacific pattern",
+    "d": "another name for a hurricane's eye",
+    "correct": "C",
+    "explanation": "La Niña is the opposite Pacific phase from El Niño, with cooler than average water in the central and eastern equatorial Pacific."
+  },
+  {
+    "stem": "Albedo is",
+    "a": "rainfall depth",
+    "b": "the fraction of sunlight a surface reflects",
+    "c": "the dew point",
+    "d": "wind speed",
+    "correct": "B",
+    "explanation": "Snow has a high albedo and reflects most sunlight. A dark surface has a low albedo and absorbs more, which affects local and global climate."
+  },
+  {
+    "stem": "Ice and snow affect climate partly because they",
+    "a": "reflect a large share of sunlight",
+    "b": "absorb all sunlight and never melt",
+    "c": "stop the greenhouse effect completely",
+    "d": "remove the Coriolis force",
+    "correct": "A",
+    "explanation": "A bright ice surface reflects incoming solar radiation, which helps keep the climate cold. If ice melts, the darker surface absorbs more heat."
+  },
+  {
+    "stem": "The urban heat island means that a city is often",
+    "a": "always colder at noon than the countryside",
+    "b": "free of all wind",
+    "c": "without any temperature",
+    "d": "warmer than the surrounding countryside",
+    "correct": "D",
+    "explanation": "Buildings, roads, and waste heat make many cities warmer than nearby rural areas, especially at night. That difference is the urban heat island."
+  },
+  {
+    "stem": "A rain shadow is a dry area",
+    "a": "inside a cumulonimbus",
+    "b": "at the eye of a cyclone only",
+    "c": "on the lee side of a mountain range",
+    "d": "on the windward slope where air first rises",
+    "correct": "C",
+    "explanation": "Air rises and drops moisture on the windward side. After crossing the crest it descends and warms, so the lee side is drier."
+  },
+  {
+    "stem": "Orographic rain is caused mainly by",
+    "a": "a fall in sea level of one centimetre",
+    "b": "air being forced to rise over high ground",
+    "c": "a thermometer in a screen",
+    "d": "the daily rotation stopping",
+    "correct": "B",
+    "explanation": "When moist air meets a mountain, it is lifted, cools, and can form cloud and rain. That uplift by terrain is orographic."
+  },
+  {
+    "stem": "Continentality is strongest",
+    "a": "in the middle of a large land mass",
+    "b": "on a small island in a warm ocean",
+    "c": "at the immediate shoreline",
+    "d": "only at the equator over the sea",
+    "correct": "A",
+    "explanation": "Far from the sea, the moderating effect of water is weak, so the annual temperature range is large. Islands usually have maritime climates."
+  },
+  {
+    "stem": "The seasons are caused mainly by",
+    "a": "Earth moving closer to the Sun in July everywhere",
+    "b": "a change in the length of the day caused by the Moon",
+    "c": "the ozone layer opening and closing",
+    "d": "the tilt of Earth's axis",
+    "correct": "D",
+    "explanation": "The axis is tilted by about 23.5 degrees. As Earth orbits the Sun, each hemisphere leans toward or away from the Sun, producing the seasons."
+  },
+  {
+    "stem": "When it is summer in the Northern Hemisphere,",
+    "a": "Earth stops rotating",
+    "b": "the equator has no daylight",
+    "c": "that hemisphere is tilted toward the Sun",
+    "d": "the South Pole receives 24 hours of sun",
+    "correct": "C",
+    "explanation": "Northern summer occurs when the Northern Hemisphere leans toward the Sun and days are longer there. The Southern Hemisphere is then in winter."
+  },
+  {
+    "stem": "A Mediterranean climate typically has",
+    "a": "permanent ice",
+    "b": "dry summers and wetter winters",
+    "c": "rain every afternoon throughout the year",
+    "d": "no dry month and no wet month",
+    "correct": "B",
+    "explanation": "Mediterranean, or dry-summer subtropical, climates have most of their rain in the cool season. Summers are hot and dry."
+  },
+  {
+    "stem": "A desert climate is one in which",
+    "a": "precipitation is very low compared with evaporation",
+    "b": "rainfall exceeds 2000 mm every month",
+    "c": "snow falls every day at sea level",
+    "d": "the air is always saturated",
+    "correct": "A",
+    "explanation": "Deserts are defined by dryness, not only by heat. Cold deserts also exist. The key is that little precipitation falls relative to the water that can evaporate."
+  },
+  {
+    "stem": "The tundra climate is",
+    "a": "a hot desert",
+    "b": "an equatorial rainforest",
+    "c": "a monsoon coast",
+    "d": "a cold climate with a short cool summer and no warm month of forest growth",
+    "correct": "D",
+    "explanation": "Tundra is a polar or alpine climate where the warmest month is above freezing but still too cool for trees. It is not a hot or equatorial climate."
+  },
+  {
+    "stem": "Global warming refers to",
+    "a": "the daily maximum only",
+    "b": "a change in the Moon's phase",
+    "c": "the rise in Earth's average surface temperature",
+    "d": "one hot afternoon in a city",
+    "correct": "C",
+    "explanation": "Global warming is the long-term increase in the planet's average temperature. A single hot day is weather."
+  },
+  {
+    "stem": "The main long-lived gas added by humans that drives recent warming is",
+    "a": "helium",
+    "b": "carbon dioxide",
+    "c": "argon",
+    "d": "nitrogen",
+    "correct": "B",
+    "explanation": "Carbon dioxide from fossil fuels and land-use change stays in the atmosphere for a long time and strengthens the greenhouse effect. Nitrogen and argon do not."
+  },
+  {
+    "stem": "A positive feedback in climate is a process that",
+    "a": "reinforces the original change",
+    "b": "always cancels the change",
+    "c": "stops all radiation",
+    "d": "measures rainfall",
+    "correct": "A",
+    "explanation": "If warming melts ice, the darker surface absorbs more sunlight and causes further warming. That reinforcing loop is a positive feedback."
+  },
+  {
+    "stem": "The cryosphere is",
+    "a": "only the liquid ocean",
+    "b": "the inner core",
+    "c": "the ozone layer",
+    "d": "the frozen part of Earth's system",
+    "correct": "D",
+    "explanation": "Ice sheets, glaciers, snow, and sea ice make up the cryosphere. It interacts with climate because ice reflects sunlight and stores water."
+  },
+  {
+    "stem": "Sea ice affects climate partly by",
+    "a": "stopping Earth's rotation",
+    "b": "creating the jet stream by itself",
+    "c": "raising the albedo of the ocean surface",
+    "d": "removing all salt from the whole ocean",
+    "correct": "C",
+    "explanation": "Ice reflects more sunlight than open water. When sea ice retreats, the darker ocean absorbs more heat."
+  },
+  {
+    "stem": "A climate proxy is",
+    "a": "the daily news",
+    "b": "indirect evidence of past climate, such as tree rings or ice cores",
+    "c": "tomorrow's forecast",
+    "d": "a hand-held anemometer only",
+    "correct": "B",
+    "explanation": "Before modern instruments, climate is inferred from natural records. Tree rings, ice cores, and corals are proxies."
+  },
+  {
+    "stem": "Tree rings can indicate past climate because",
+    "a": "ring width often reflects growing conditions such as rainfall and temperature",
+    "b": "rings measure air pressure directly",
+    "c": "each ring is a cloud",
+    "d": "rings form only in the ocean",
+    "correct": "A",
+    "explanation": "A favourable growing season often produces a wider ring. The pattern of rings can be dated and compared with climate."
+  },
+  {
+    "stem": "Milankovitch cycles refer to",
+    "a": "the daily sea breeze",
+    "b": "a 24-hour temperature cycle only",
+    "c": "the life cycle of a thunderstorm",
+    "d": "slow changes in Earth's orbit and tilt that affect climate",
+    "correct": "D",
+    "explanation": "Changes in eccentricity, tilt, and precession alter how sunlight is distributed over thousands of years. They help explain the pacing of ice ages."
+  },
+  {
+    "stem": "An ice age is",
+    "a": "a winter fog",
+    "b": "a fall of hail",
+    "c": "a long interval when large ice sheets cover parts of the continents",
+    "d": "one cold night",
+    "correct": "C",
+    "explanation": "Ice ages last thousands of years or longer and involve continental ice sheets. A single cold night is ordinary weather."
+  },
+  {
+    "stem": "The Hadley cell is",
+    "a": "the inner core of Earth",
+    "b": "a tropical circulation with rising air near the equator and sinking air in the subtropics",
+    "c": "a polar ice sheet",
+    "d": "a type of rain gauge",
+    "correct": "B",
+    "explanation": "Air rises in the ITCZ, moves poleward aloft, and sinks around the subtropics. That overturning is the Hadley cell and helps explain subtropical deserts."
+  },
+  {
+    "stem": "Many of the world's hot deserts lie near",
+    "a": "the subtropical high-pressure belts",
+    "b": "the ITCZ all year",
+    "c": "the equator, where air always rises",
+    "d": "the poles only",
+    "correct": "A",
+    "explanation": "Sinking air in the subtropical highs suppresses cloud and rain. The equator, where air rises, is often wet rather than desert."
+  },
+  {
+    "stem": "The South Asian monsoon is part of",
+    "a": "a single thunderstorm",
+    "b": "the daily land breeze only",
+    "c": "a polar vortex that never changes",
+    "d": "a seasonal continental-scale wind reversal",
+    "correct": "D",
+    "explanation": "Heating of the Asian land mass in summer helps draw moist winds inland. In winter the flow reverses. That seasonal reversal is the monsoon."
+  },
+  {
+    "stem": "A steppe climate is",
+    "a": "permanent ice cap",
+    "b": "a mangrove swamp only",
+    "c": "semi-arid grassland",
+    "d": "equatorial rainforest",
+    "correct": "C",
+    "explanation": "Steppe is the semi-arid climate between desert and more humid regions, often supporting grassland. It is drier than a forest climate but not as dry as a true desert."
+  },
+  {
+    "stem": "Annual rainfall of a station is",
+    "a": "the wind speed",
+    "b": "the total precipitation over a year",
+    "c": "the rainfall of one hour",
+    "d": "the dew point",
+    "correct": "B",
+    "explanation": "Annual rainfall adds all the precipitation measured during the year. Climate descriptions often compare these yearly totals."
+  },
+  {
+    "stem": "A place with most of its rain in summer and very little in winter may be described as having",
+    "a": "a summer-rain regime",
+    "b": "no climate",
+    "c": "a Mediterranean dry-summer regime",
+    "d": "permanent drought by definition",
+    "correct": "A",
+    "explanation": "The seasonal distribution matters as much as the yearly total. A summer maximum is typical of many monsoon climates, whereas a Mediterranean climate has a winter maximum."
+  },
+  {
+    "stem": "Diurnal temperature range is",
+    "a": "the difference between two centuries",
+    "b": "the annual rainfall",
+    "c": "the speed of the jet stream",
+    "d": "the difference between the daily maximum and minimum",
+    "correct": "D",
+    "explanation": "Diurnal means daily. Deserts often have a large diurnal range because dry air and clear skies allow strong daytime heating and rapid night cooling."
+  },
+  {
+    "stem": "Clear dry nights tend to be colder than cloudy nights because",
+    "a": "the air stops moving by law",
+    "b": "humidity becomes zero only under cloud",
+    "c": "the ground loses heat to space more freely",
+    "d": "clouds add a second sun",
+    "correct": "C",
+    "explanation": "Clouds absorb and return infrared radiation, acting as a blanket. Under a clear sky, the surface radiates heat away and cools more."
+  },
+  {
+    "stem": "The climate of a high mountain is generally",
+    "a": "independent of height",
+    "b": "cooler than the nearby lowland",
+    "c": "always hotter than the lowland",
+    "d": "identical to the lowland in every way",
+    "correct": "B",
+    "explanation": "Temperature generally falls with height, so elevated places are cooler. They may also be wetter on the windward side."
+  },
+  {
+    "stem": "Aspect, in climate, means",
+    "a": "the direction a slope faces",
+    "b": "the age of a river",
+    "c": "the name of a cloud",
+    "d": "the unit of pressure",
+    "correct": "A",
+    "explanation": "A slope facing the Sun is warmer and often drier than a shaded slope. That effect of direction is aspect."
+  },
+  {
+    "stem": "Paleoclimatology is the study of",
+    "a": "tomorrow's weather only",
+    "b": "ocean fish prices",
+    "c": "the design of barometers",
+    "d": "climates of the past",
+    "correct": "D",
+    "explanation": "Paleoclimatology reconstructs ancient climates from proxies such as ice cores and sediments. It is not a daily forecast."
+  },
+  {
+    "stem": "A teleconnection in climate is",
+    "a": "a local sea breeze",
+    "b": "a single rain gauge",
+    "c": "a link between climate anomalies in distant regions",
+    "d": "a telephone line",
+    "correct": "C",
+    "explanation": "El Niño affecting rainfall far from the Pacific is a teleconnection. The regions are linked through the atmosphere and ocean even though they are far apart."
+  },
+  {
+    "stem": "The goal often cited for limiting global warming is to hold the rise well below",
+    "a": "100°C",
+    "b": "2°C above pre-industrial levels, pursuing 1.5°C",
+    "c": "20°C above today",
+    "d": "0°C by removing the atmosphere",
+    "correct": "B",
+    "explanation": "The Paris Agreement aims to keep warming well below 2°C and to pursue efforts to limit it to 1.5°C relative to pre-industrial temperatures."
+  },
+  {
+    "stem": "Climate change differs from a short heatwave because climate change is",
+    "a": "a shift in the long-term statistics of weather",
+    "b": "one afternoon above 40°C",
+    "c": "a single storm",
+    "d": "the phase of the Moon",
+    "correct": "A",
+    "explanation": "A heatwave is a weather event. Climate change is a lasting change in averages and extremes over decades."
+  },
+  {
+    "stem": "The main reason subtropical deserts are dry is",
+    "a": "continuous rise of air at those latitudes",
+    "b": "permanent location of the ITCZ there",
+    "c": "lack of any sunlight",
+    "d": "prevailing descent of air in the subtropical highs",
+    "correct": "D",
+    "explanation": "Air that rose near the equator descends in the subtropics. Descending air warms and dries, so cloud and rain are suppressed."
+  }
+]

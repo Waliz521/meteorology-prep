@@ -1,0 +1,452 @@
+[
+  {
+    "stem": "The focus of an earthquake is",
+    "a": "the point on the surface directly above the rupture",
+    "b": "the place in the Earth where the rupture begins",
+    "c": "the instrument that records the shaking",
+    "d": "the scale of damage",
+    "correct": "B",
+    "explanation": "The focus, or hypocentre, is the underground point where the earthquake starts. The point on the surface above it is the epicentre."
+  },
+  {
+    "stem": "The epicentre is",
+    "a": "the deepest part of the inner core",
+    "b": "a type of seismic wave",
+    "c": "the building that is damaged",
+    "d": "the point on the surface above the focus",
+    "correct": "D",
+    "explanation": "The epicentre lies on the ground surface vertically above the focus. It is not the underground starting point itself."
+  },
+  {
+    "stem": "A seismograph is",
+    "a": "a rain gauge",
+    "b": "a map of rainfall",
+    "c": "an instrument that records ground motion",
+    "d": "a scale of wind speed",
+    "correct": "C",
+    "explanation": "A seismograph detects and records shaking. The record it produces is a seismogram."
+  },
+  {
+    "stem": "A seismogram is",
+    "a": "a mineral",
+    "b": "the record of ground motion",
+    "c": "the underground focus",
+    "d": "a volcano",
+    "correct": "B",
+    "explanation": "The seismogram is the trace, on paper or in a digital file, made by a seismograph during an earthquake."
+  },
+  {
+    "stem": "P waves are",
+    "a": "the faster primary waves, which can travel through solids and liquids",
+    "b": "slower than S waves",
+    "c": "unable to pass through rock",
+    "d": "surface waves only",
+    "correct": "A",
+    "explanation": "P stands for primary. These compressional waves arrive first and can travel through both solid and liquid material."
+  },
+  {
+    "stem": "S waves are",
+    "a": "faster than P waves",
+    "b": "able to cross the liquid outer core",
+    "c": "sound waves in the air only",
+    "d": "slower shear waves that do not pass through liquid",
+    "correct": "D",
+    "explanation": "S waves move by shearing, so they need a solid. They are stopped by the liquid outer core, which is why a shadow zone exists."
+  },
+  {
+    "stem": "Which waves usually arrive first at a distant station?",
+    "a": "surface waves",
+    "b": "sound waves through the air",
+    "c": "S waves",
+    "d": "P waves",
+    "correct": "D",
+    "explanation": "P waves travel fastest, so they are the first mark on a seismogram. S waves and surface waves follow."
+  },
+  {
+    "stem": "S waves do not travel through the outer core because the outer core is",
+    "a": "colder than the crust",
+    "b": "liquid",
+    "c": "a vacuum",
+    "d": "made of ice",
+    "correct": "B",
+    "explanation": "Shear waves cannot pass through a liquid. The failure of S waves to cross the outer core is evidence that this layer is molten."
+  },
+  {
+    "stem": "The Richter scale is a measure of",
+    "a": "the size of the earthquake at its source",
+    "b": "the damage at one town only, with no regard to the source",
+    "c": "wind speed",
+    "d": "rainfall intensity",
+    "correct": "A",
+    "explanation": "Richter magnitude describes the energy release, based on the amplitude of the waves. The Mercalli scale instead describes the intensity of shaking and damage at a place."
+  },
+  {
+    "stem": "The Mercalli scale describes",
+    "a": "the exact energy in joules only",
+    "b": "ocean depth",
+    "c": "the age of a rock in years",
+    "d": "the intensity of shaking and the effects people observe",
+    "correct": "D",
+    "explanation": "Mercalli intensity uses observations such as whether objects fall or buildings crack. It can differ from town to town for the same earthquake."
+  },
+  {
+    "stem": "Magnitude and intensity differ because",
+    "a": "intensity is measured only at the focus",
+    "b": "magnitude changes in every street",
+    "c": "magnitude is one value for the earthquake, while intensity varies from place to place",
+    "d": "they are two names for the same town report",
+    "correct": "C",
+    "explanation": "An earthquake has a single magnitude. Its intensity is usually greatest near the epicentre and weaker farther away."
+  },
+  {
+    "stem": "A normal fault is typically caused by",
+    "a": "rainfall",
+    "b": "pulling apart of the crust",
+    "c": "squeezing the crust",
+    "d": "blocks sliding sideways with no vertical motion only",
+    "correct": "B",
+    "explanation": "In a normal fault the hanging wall moves down relative to the footwall, under tension. Compression produces a reverse fault."
+  },
+  {
+    "stem": "A reverse fault is typically caused by",
+    "a": "compression",
+    "b": "tension",
+    "c": "the daily tide only",
+    "d": "wind erosion",
+    "correct": "A",
+    "explanation": "Under compression the hanging wall is pushed up relative to the footwall. That is a reverse, or thrust, fault."
+  },
+  {
+    "stem": "A strike-slip fault is one in which the blocks",
+    "a": "only move straight up and down",
+    "b": "melt completely",
+    "c": "are separated by a river with no movement",
+    "d": "slide horizontally past each other",
+    "correct": "D",
+    "explanation": "Motion on a strike-slip fault is mainly sideways. The San Andreas fault is a well-known example."
+  },
+  {
+    "stem": "Most earthquakes occur",
+    "a": "at random, with no pattern",
+    "b": "only in the inner core",
+    "c": "along the boundaries of tectonic plates",
+    "d": "only at the centres of stable continents",
+    "correct": "C",
+    "explanation": "Plates grind, collide, or pull apart at their edges, so most quakes are concentrated there. The interiors of plates are much quieter."
+  },
+  {
+    "stem": "The Himalayas are associated with",
+    "a": "a transform fault with no mountains",
+    "b": "collision of the Indian and Eurasian plates",
+    "c": "a mid-ocean ridge in the Arabian Sea only",
+    "d": "divergence of two oceanic plates",
+    "correct": "B",
+    "explanation": "The Indian plate is pushing into Eurasia. That continental collision builds the Himalayas and causes earthquakes across the region, including northern Pakistan."
+  },
+  {
+    "stem": "A mid-ocean ridge is a place where plates",
+    "a": "move apart and new crust is formed",
+    "b": "only collide",
+    "c": "are destroyed and never replaced",
+    "d": "stop moving",
+    "correct": "A",
+    "explanation": "At a divergent boundary, magma rises and makes new oceanic crust. These ridges also produce earthquakes."
+  },
+  {
+    "stem": "A subduction zone is where",
+    "a": "two continents simply slide apart",
+    "b": "no earthquakes occur",
+    "c": "the crust is thickest and never moves",
+    "d": "one plate sinks beneath another",
+    "correct": "D",
+    "explanation": "Oceanic crust can be forced down into the mantle. Subduction zones produce deep earthquakes and often volcanoes."
+  },
+  {
+    "stem": "A tsunami is",
+    "a": "a cloud",
+    "b": "a P wave in rock",
+    "c": "a series of sea waves set off by a large displacement of water, often an undersea earthquake",
+    "d": "a tidal wave caused only by the Moon",
+    "correct": "C",
+    "explanation": "If the seabed is suddenly raised or dropped, the water column is disturbed and long waves travel outward. These are tsunamis, not ordinary wind waves or tides."
+  },
+  {
+    "stem": "The lag between P and S arrivals increases when the station is",
+    "a": "unrelated to distance",
+    "b": "farther from the epicentre",
+    "c": "closer to the epicentre",
+    "d": "at the focus itself, with a large lag",
+    "correct": "B",
+    "explanation": "S waves are slower, so the gap between the two arrivals grows with distance. That gap is used to estimate how far away the earthquake was."
+  },
+  {
+    "stem": "Locating an epicentre commonly needs records from at least",
+    "a": "three stations",
+    "b": "one station",
+    "c": "no station",
+    "d": "a rain gauge",
+    "correct": "A",
+    "explanation": "One station gives a distance, which is a circle of possible places. A second circle narrows it, and a third fixes the point where the circles meet."
+  },
+  {
+    "stem": "Aftershocks are",
+    "a": "the main earthquake itself",
+    "b": "storms that always follow a quake",
+    "c": "P waves from a different planet",
+    "d": "smaller earthquakes that follow the main shock",
+    "correct": "D",
+    "explanation": "The crust continues to adjust after the main rupture, producing smaller events. They can still be damaging."
+  },
+  {
+    "stem": "The main shock is",
+    "a": "a weather front",
+    "b": "the seismograph building",
+    "c": "the largest earthquake in a sequence",
+    "d": "always the last tiny tremor",
+    "correct": "C",
+    "explanation": "In a sequence, the event of greatest magnitude is the main shock. Smaller events before it are foreshocks, and those after it are aftershocks."
+  },
+  {
+    "stem": "A foreshock is",
+    "a": "the inner core",
+    "b": "a smaller earthquake before the main shock",
+    "c": "the damage report",
+    "d": "a surface wave that arrives first",
+    "correct": "B",
+    "explanation": "Foreshocks are recognised clearly only after the larger main shock has occurred. Not every earthquake has them."
+  },
+  {
+    "stem": "Surface waves travel",
+    "a": "along the outer part of the Earth",
+    "b": "only through the inner core",
+    "c": "faster than P waves through the body of the Earth",
+    "d": "through the air as ordinary sound",
+    "correct": "A",
+    "explanation": "Love and Rayleigh waves move near the surface. They are often slower than body waves but can cause strong shaking."
+  },
+  {
+    "stem": "Body waves include",
+    "a": "only ocean tides",
+    "b": "only Love waves",
+    "c": "wind gusts",
+    "d": "P and S waves",
+    "correct": "D",
+    "explanation": "Body waves travel through the interior. P and S are the two kinds. Surface waves are a separate group."
+  },
+  {
+    "stem": "The shadow zone for S waves occurs because",
+    "a": "stations refuse the signal",
+    "b": "the crust is a vacuum",
+    "c": "S waves cannot cross the liquid outer core",
+    "d": "P waves stop at the crust",
+    "correct": "C",
+    "explanation": "Beyond a certain distance, S waves are absent because the liquid outer core blocks them. That absence is the S-wave shadow zone."
+  },
+  {
+    "stem": "Seismic waves have shown that Earth's outer core is liquid because",
+    "a": "no wave is ever recorded",
+    "b": "S waves do not pass through it",
+    "c": "P waves cannot enter rock",
+    "d": "surface waves travel only in the core",
+    "correct": "B",
+    "explanation": "S waves vanish when they meet the outer core, which a liquid explains. P waves slow down and bend, but they can continue."
+  },
+  {
+    "stem": "A shallow-focus earthquake has its focus",
+    "a": "near the surface",
+    "b": "at the centre of the Earth",
+    "c": "in the inner core only",
+    "d": "above the atmosphere",
+    "correct": "A",
+    "explanation": "Shallow earthquakes originate in the outer tens of kilometres. For the same magnitude they often cause stronger shaking at the surface than deep ones."
+  },
+  {
+    "stem": "An earthquake under the sea is especially hazardous when it",
+    "a": "occurs in the inner core",
+    "b": "has no effect on water",
+    "c": "only produces wind",
+    "d": "displaces the seafloor and can raise a tsunami",
+    "correct": "D",
+    "explanation": "Vertical movement of the seabed disturbs the water. Coastal areas may then face a tsunami as well as the shaking."
+  },
+  {
+    "stem": "The point where three circles of station distance meet is used to find the",
+    "a": "daily rainfall",
+    "b": "ozone amount",
+    "c": "epicentre",
+    "d": "chemical formula of a mineral",
+    "correct": "C",
+    "explanation": "Each station gives a distance from the epicentre. The common intersection of three such circles is the epicentre."
+  },
+  {
+    "stem": "Magnitude scales are logarithmic, which means that",
+    "a": "the scale stops at 3",
+    "b": "each step up is a large increase in wave size, not a small equal step",
+    "c": "a rise from 5 to 6 is a 1 percent change",
+    "d": "all magnitudes feel identical",
+    "correct": "B",
+    "explanation": "On the original Richter scale, one unit corresponds to a tenfold increase in recorded amplitude. A magnitude 6 is not slightly larger than a 5."
+  },
+  {
+    "stem": "A magnitude 7 earthquake has a larger source than a magnitude 5 earthquake. The amplitude is greater by a factor of about",
+    "a": "100",
+    "b": "2",
+    "c": "7",
+    "d": "0.25",
+    "correct": "A",
+    "explanation": "Each magnitude unit is a tenfold change in amplitude. Two units, from 5 to 7, mean 10 times 10, which is 100."
+  },
+  {
+    "stem": "Isoseismal lines on a map connect places of",
+    "a": "equal rainfall",
+    "b": "equal altitude only",
+    "c": "equal population",
+    "d": "equal intensity",
+    "correct": "D",
+    "explanation": "An isoseismal joins locations that reported the same Mercalli intensity. The lines usually surround the epicentral area."
+  },
+  {
+    "stem": "Liquefaction during an earthquake is",
+    "a": "a volcanic lava flow in every quake",
+    "b": "the freezing of groundwater",
+    "c": "the temporary loss of strength in a wet sandy soil, so it behaves like a fluid",
+    "d": "the melting of the inner core",
+    "correct": "C",
+    "explanation": "Shaking can raise water pressure in loose saturated sand until the grains lose contact. Buildings may then tilt or sink."
+  },
+  {
+    "stem": "The safest immediate action indoors when shaking starts is to",
+    "a": "stand beside a window",
+    "b": "drop, cover, and hold on",
+    "c": "run to a doorway and then outside during the strongest shaking",
+    "d": "use the lift",
+    "correct": "B",
+    "explanation": "Dropping under a sturdy table and holding on reduces injury from falling objects. Lifts and windows are hazards during the shaking."
+  },
+  {
+    "stem": "Pakistan's northern region is earthquake-prone mainly because it lies",
+    "a": "near the collision boundary of the Indian and Eurasian plates",
+    "b": "at the centre of a stable shield with no faults",
+    "c": "on a mid-ocean ridge",
+    "d": "inside the liquid outer core",
+    "correct": "A",
+    "explanation": "The ongoing collision that raised the Himalayas and Karakoram also produces large earthquakes in the north of the country."
+  },
+  {
+    "stem": "A fault is",
+    "a": "an unbroken fold with no displacement",
+    "b": "a type of cloud",
+    "c": "a rain gauge",
+    "d": "a fracture along which the rocks have moved",
+    "correct": "D",
+    "explanation": "Movement along a fracture makes it a fault. The sudden slip on a fault is what generates an earthquake."
+  },
+  {
+    "stem": "Elastic rebound explains earthquakes as",
+    "a": "the daily heating of the ground",
+    "b": "the pull of the tides alone",
+    "c": "the sudden release of strain that rocks had stored",
+    "d": "a slow leak of rain into the crust",
+    "correct": "C",
+    "explanation": "Rocks bend as stress builds. When they break, they spring back toward a less strained shape and send out seismic waves."
+  },
+  {
+    "stem": "The instrument's heavy mass in a simple seismograph stays still while the ground moves because of",
+    "a": "magnetism of the core only",
+    "b": "inertia",
+    "c": "the Coriolis force",
+    "d": "rainfall",
+    "correct": "B",
+    "explanation": "A freely suspended mass tends to remain at rest. The ground and the frame move around it, and that relative motion is recorded."
+  },
+  {
+    "stem": "Deep earthquakes are most often associated with",
+    "a": "subduction zones",
+    "b": "the centres of continents far from any plate edge",
+    "c": "mid-ocean ridges only",
+    "d": "sand dunes",
+    "correct": "A",
+    "explanation": "A sinking plate remains cold and brittle to considerable depth, so earthquakes can occur hundreds of kilometres down. Ridge quakes are shallow."
+  },
+  {
+    "stem": "The Ring of Fire is",
+    "a": "a ring of deserts in Africa",
+    "b": "the inner core",
+    "c": "a climate zone at the equator",
+    "d": "a belt of earthquakes and volcanoes around the Pacific",
+    "correct": "D",
+    "explanation": "Subduction around much of the Pacific produces a chain of volcanoes and frequent earthquakes. That belt is called the Ring of Fire."
+  },
+  {
+    "stem": "P waves are also called",
+    "a": "ocean tides",
+    "b": "light waves",
+    "c": "compressional waves",
+    "d": "shear waves",
+    "correct": "C",
+    "explanation": "A P wave pushes and pulls the rock in the direction of travel, which is compression and expansion. An S wave shears the rock from side to side."
+  },
+  {
+    "stem": "If a station records a very short gap between P and S,",
+    "a": "the station is inside the outer core",
+    "b": "the earthquake is nearby",
+    "c": "the earthquake is on the opposite side of the Earth",
+    "d": "there was no earthquake",
+    "correct": "B",
+    "explanation": "The S wave has had little time to fall behind, so the source is close. A long gap means a distant source."
+  },
+  {
+    "stem": "Seismology is the study of",
+    "a": "earthquakes and the waves they produce",
+    "b": "rainfall only",
+    "c": "the chemistry of the air",
+    "d": "ocean tides alone",
+    "correct": "A",
+    "explanation": "Seismology uses elastic waves to study earthquakes and the interior of the Earth. It is a branch of geophysics."
+  },
+  {
+    "stem": "A tremor is",
+    "a": "a unit of rainfall",
+    "b": "a type of front",
+    "c": "a cloud genus",
+    "d": "a shaking of the ground",
+    "correct": "D",
+    "explanation": "Tremor is the general word for ground shaking. It may be a small earthquake or the shaking felt from a larger one."
+  },
+  {
+    "stem": "Buildings on soft wet ground may suffer more damage because",
+    "a": "magnitude becomes zero",
+    "b": "P waves cannot enter soil",
+    "c": "the soil can amplify shaking",
+    "d": "soft ground stops all waves",
+    "correct": "C",
+    "explanation": "Loose sediment can increase the amplitude and duration of shaking. Solid rock often shakes less at the same distance."
+  },
+  {
+    "stem": "The inner core is inferred to be solid partly because",
+    "a": "it is cooler than the crust",
+    "b": "some seismic waves that have crossed it behave as they would in a solid",
+    "c": "S waves cross the outer core easily",
+    "d": "no wave returns from inside the Earth",
+    "correct": "B",
+    "explanation": "Studies of waves that pass through the centre show a solid inner core inside the liquid outer core. The outer core itself blocks S waves."
+  },
+  {
+    "stem": "An earthquake of small magnitude can still cause serious damage if it is",
+    "a": "shallow and directly beneath a city",
+    "b": "very deep and far away",
+    "c": "located in the atmosphere",
+    "d": "recorded only by one barometer",
+    "correct": "A",
+    "explanation": "Intensity at the surface depends on depth, distance, and ground conditions, not on magnitude alone. A shallow nearby shock can be destructive."
+  },
+  {
+    "stem": "The hanging wall is",
+    "a": "the seismograph",
+    "b": "the epicentre",
+    "c": "the inner core",
+    "d": "the block of rock above a dipping fault",
+    "correct": "D",
+    "explanation": "On a sloping fault, the upper block is the hanging wall and the lower block is the footwall. Their relative movement defines a normal or a reverse fault."
+  }
+]

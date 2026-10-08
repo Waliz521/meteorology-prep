@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+
+  <defs>
+    <linearGradient id="day" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b3f86"/>
+      <stop offset="0.55" stop-color="#2f86d0"/>
+      <stop offset="1" stop-color="#8fd0f2"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#fff4c2"/>
+      <stop offset="0.6" stop-color="#ffcf4a"/>
+      <stop offset="1" stop-color="#ffcf4a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#day)"/>
+  <g transform="translate(1280 150)" stroke="#ffe08a" stroke-width="8" stroke-linecap="round">
+    <path d="M0 -90 v30 M0 60 v30 M-90 0 h30 M60 0 h30 M-64 -64 l21 21 M43 43 l21 21 M-64 64 l21 -21 M43 -43 l21 -21"/>
+    <circle r="78" fill="url(#sun)"/>
+    <circle r="42" fill="#ffe56a"/>
+  </g>
+  <g fill="#ffffff">
+    <g transform="translate(280 220)" opacity="0.96">
+      <ellipse cx="0" cy="30" rx="120" ry="42"/>
+      <ellipse cx="-70" cy="18" rx="58" ry="44"/>
+      <ellipse cx="60" cy="8" rx="70" ry="50"/>
+      <ellipse cx="10" cy="-6" rx="48" ry="40"/>
+    </g>
+    <g transform="translate(760 340)">
+      <ellipse cx="0" cy="24" rx="150" ry="48"/>
+      <ellipse cx="-90" cy="10" rx="70" ry="50"/>
+      <ellipse cx="80" cy="0" rx="86" ry="56"/>
+      <ellipse cx="8" cy="-16" rx="54" ry="42"/>
+    </g>
+    <g transform="translate(1180 520)" opacity="0.92">
+      <ellipse cx="0" cy="20" rx="100" ry="36"/>
+      <ellipse cx="-50" cy="8" rx="46" ry="34"/>
+      <ellipse cx="48" cy="4" rx="52" ry="36"/>
+    </g>
+  </g>
+  <g stroke="#d7f1ff" stroke-width="3" stroke-linecap="round" opacity="0.9">
+    <path d="M700 400 l-18 70 M760 410 l-18 86 M820 400 l-18 64 M680 430 l-14 50"/>
+  </g>
+  <path d="M0 760 C200 700 360 820 560 750 C780 670 980 830 1200 740 C1380 680 1500 760 1600 720 V900 H0Z" fill="#e9f7ff" opacity="0.35"/>
+
+</svg>

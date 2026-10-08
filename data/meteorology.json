@@ -1,0 +1,452 @@
+[
+  {
+    "stem": "About what percentage of dry air, by volume, is nitrogen?",
+    "a": "About 21 percent",
+    "b": "About 78 percent",
+    "c": "About 1 percent",
+    "d": "About 40 percent",
+    "correct": "B",
+    "explanation": "Dry air is roughly 78 percent nitrogen and 21 percent oxygen, with argon near 1 percent. Nitrogen is chemically inactive in most weather processes, but it makes up the bulk of the atmosphere. The 21 percent figure is oxygen, and about 1 percent is argon, so those options name the wrong gas."
+  },
+  {
+    "stem": "About what percentage of dry air, by volume, is oxygen?",
+    "a": "About 78 percent",
+    "b": "About 4 percent",
+    "c": "About 21 percent",
+    "d": "About 0.04 percent",
+    "correct": "C",
+    "explanation": "Oxygen is the second major gas in dry air, at about 21 percent by volume. Nitrogen is about 78 percent. Carbon dioxide is near 0.04 percent, so that option is two orders of magnitude too small for oxygen."
+  },
+  {
+    "stem": "Which gas, though a small share of the air, contributes most to the natural greenhouse effect?",
+    "a": "Argon",
+    "b": "Oxygen",
+    "c": "Nitrogen",
+    "d": "Water vapour",
+    "correct": "D",
+    "explanation": "Water vapour is the strongest natural greenhouse gas because it absorbs outgoing longwave radiation. Nitrogen and oxygen are abundant but poor absorbers of that radiation. Argon is inert. Carbon dioxide matters greatly for recent warming, but water vapour dominates the natural greenhouse effect."
+  },
+  {
+    "stem": "Which long-lived gas is the main driver of recent human-caused global warming?",
+    "a": "Oxygen",
+    "b": "Carbon dioxide",
+    "c": "Argon",
+    "d": "Nitrogen",
+    "correct": "B",
+    "explanation": "Carbon dioxide from fossil fuels, cement, and land-use change is the largest long-lived contributor to modern warming. It stays in the atmosphere for a long time and adds to the greenhouse effect. Nitrogen, oxygen, and argon do not trap outgoing heat in any important way."
+  },
+  {
+    "stem": "In which layer of the atmosphere does almost all weather occur?",
+    "a": "Stratosphere",
+    "b": "Mesosphere",
+    "c": "Troposphere",
+    "d": "Thermosphere",
+    "correct": "C",
+    "explanation": "The troposphere is the lowest layer, and clouds, rain, fronts, and storms form there. It holds roughly three quarters of the atmosphere's mass. The stratosphere is more stable and contains the ozone layer. The mesosphere and thermosphere are far above ordinary weather."
+  },
+  {
+    "stem": "The boundary between the troposphere and the stratosphere is the",
+    "a": "Mesopause",
+    "b": "Tropopause",
+    "c": "Stratopause",
+    "d": "Thermopause",
+    "correct": "B",
+    "explanation": "Each 'pause' is the top of the layer named in the first half of the word. The tropopause caps the troposphere. The stratopause caps the stratosphere, and the mesopause caps the mesosphere. The height of the tropopause is lower near the poles and higher in the tropics."
+  },
+  {
+    "stem": "The ozone layer that absorbs most harmful ultraviolet radiation lies mainly in the",
+    "a": "Troposphere",
+    "b": "Stratosphere",
+    "c": "Mesosphere",
+    "d": "Thermosphere",
+    "correct": "B",
+    "explanation": "Most ozone is in the stratosphere. Absorption of ultraviolet radiation there warms that layer, so temperature rises with height. A little ozone near the ground is a pollutant. The mesosphere and thermosphere are not where the protective ozone layer sits."
+  },
+  {
+    "stem": "In the troposphere, temperature generally",
+    "a": "Increases with height",
+    "b": "Stays exactly constant",
+    "c": "Decreases with height",
+    "d": "Falls only inside clouds",
+    "correct": "C",
+    "explanation": "The usual pattern in the troposphere is a decrease of temperature with height, called the environmental lapse rate. The average value is about 6.5°C per kilometre. An increase with height is an inversion, which is the exception, not the usual state."
+  },
+  {
+    "stem": "The average environmental lapse rate in the troposphere is about",
+    "a": "1°C per kilometre",
+    "b": "6.5°C per kilometre",
+    "c": "15°C per kilometre",
+    "d": "20°C per kilometre",
+    "correct": "B",
+    "explanation": "The standard environmental lapse rate used in many textbooks is 6.5°C per km, or 0.65°C per 100 m. The dry adiabatic rate is steeper, near 9.8°C per km. One degree per kilometre is too weak for the average troposphere, and 15–20°C per km would be extremely unstable."
+  },
+  {
+    "stem": "The dry adiabatic lapse rate is approximately",
+    "a": "9.8°C per kilometre",
+    "b": "2°C per kilometre",
+    "c": "6.5°C per kilometre",
+    "d": "0.5°C per kilometre",
+    "correct": "A",
+    "explanation": "A dry parcel of air that rises and expands without gaining or losing heat cools at about 9.8°C per km. That rate comes from gravity and the specific heat of air. 6.5°C per km is the average environmental rate, not the dry adiabatic rate. Saturated air cools more slowly because condensation releases latent heat."
+  },
+  {
+    "stem": "Why is the saturated adiabatic lapse rate smaller than the dry adiabatic lapse rate?",
+    "a": "Saturated air is heavier, so it cannot rise",
+    "b": "Latent heat released by condensation offsets some of the cooling",
+    "c": "The Coriolis force warms the parcel",
+    "d": "Ozone absorbs heat inside every cloud",
+    "correct": "B",
+    "explanation": "Rising saturated air still expands and cools, but condensation releases latent heat into the parcel. That heat makes the cooling rate smaller than the dry rate of about 9.8°C per km. The moist rate is often around 4 to 7°C per km and depends on temperature. The Coriolis force does not heat the air."
+  },
+  {
+    "stem": "A temperature inversion means that, over some layer,",
+    "a": "Wind direction reverses",
+    "b": "Pressure increases with height",
+    "c": "Temperature increases with height",
+    "d": "Humidity is exactly zero",
+    "correct": "C",
+    "explanation": "An inversion is a layer in which temperature rises with height instead of falling. It is very stable, so vertical mixing is suppressed and pollutants or fog can stay trapped. Pressure still falls with height. The name refers to temperature, not to a reversal of the wind."
+  },
+  {
+    "stem": "Atmospheric pressure generally",
+    "a": "Increases steadily with height",
+    "b": "Is the same at all heights",
+    "c": "Decreases with height",
+    "d": "Depends only on humidity",
+    "correct": "C",
+    "explanation": "Pressure is the weight of the air above a level, so it falls as you go up. About half of the atmosphere's mass is below roughly 5.5 km. Humidity changes density slightly, but it does not reverse the decrease of pressure with height."
+  },
+  {
+    "stem": "Which instrument measures atmospheric pressure?",
+    "a": "Anemometer",
+    "b": "Hygrometer",
+    "c": "Barometer",
+    "d": "Rain gauge",
+    "correct": "C",
+    "explanation": "A barometer measures air pressure, often in hectopascals or millibars. An anemometer measures wind speed, a hygrometer measures humidity, and a rain gauge measures precipitation. Mercury and aneroid barometers are the two classic types."
+  },
+  {
+    "stem": "Which instrument measures wind speed?",
+    "a": "Wind vane",
+    "b": "Anemometer",
+    "c": "Barometer",
+    "d": "Pyranometer",
+    "correct": "B",
+    "explanation": "An anemometer measures how fast the wind is blowing. A wind vane, or wind cock, shows the direction only. A pyranometer measures solar radiation, and a barometer measures pressure. Standard surface wind is often reported at about 10 metres above the ground."
+  },
+  {
+    "stem": "A westerly wind is a wind that blows",
+    "a": "Toward the west",
+    "b": "From the west",
+    "c": "Only above 10 km",
+    "d": "From the east",
+    "correct": "B",
+    "explanation": "Winds are named by the direction they come from. A westerly wind arrives from the west and travels toward the east. An easterly wind comes from the east. This naming is used in forecasts, station reports, and map analysis."
+  },
+  {
+    "stem": "Which instrument measures humidity?",
+    "a": "Hygrometer",
+    "b": "Barometer",
+    "c": "Anemometer",
+    "d": "Ceilometer",
+    "correct": "A",
+    "explanation": "A hygrometer measures the moisture content of the air. A psychrometer, with wet-bulb and dry-bulb thermometers, is one form of it. A ceilometer measures cloud-base height. Pressure and wind speed need a barometer and an anemometer."
+  },
+  {
+    "stem": "Rainfall amount at a station is measured with a",
+    "a": "Barometer",
+    "b": "Wind vane",
+    "c": "Rain gauge",
+    "d": "Stevenson screen",
+    "correct": "C",
+    "explanation": "A rain gauge collects precipitation and records the depth, usually in millimetres. The Stevenson screen houses thermometers and keeps them out of direct sun. It does not measure rain. Wind instruments do not collect water."
+  },
+  {
+    "stem": "A Campbell–Stokes recorder is used to measure",
+    "a": "Sunshine duration",
+    "b": "Soil moisture",
+    "c": "Earthquake magnitude",
+    "d": "Cloud droplet size",
+    "correct": "A",
+    "explanation": "The Campbell–Stokes sunshine recorder focuses sunlight onto a card. The burn trace shows how long bright sunshine lasted. It is a standard meteorological instrument named in FPSC meteorology syllabi. It is not a seismograph or a soil probe."
+  },
+  {
+    "stem": "Why are thermometers kept in a Stevenson screen?",
+    "a": "To measure rainfall as well as temperature",
+    "b": "To shield them from direct sun and precipitation while air can still pass through",
+    "c": "To stop all air movement around the bulbs",
+    "d": "To raise the reading by about 5°C",
+    "correct": "B",
+    "explanation": "A Stevenson screen is a white, louvered box. The white paint reflects sunlight, the louvers let air circulate, and the roof keeps rain off the thermometers. That gives air temperature rather than the temperature of a bulb sitting in the sun. Sealing the screen would stop ventilation and spoil the reading."
+  },
+  {
+    "stem": "Standard mean sea-level pressure is about",
+    "a": "100 hPa",
+    "b": "500 hPa",
+    "c": "1013 hPa",
+    "d": "2000 hPa",
+    "correct": "C",
+    "explanation": "The conventional mean sea-level pressure is 1013.25 hPa, also written as 1013.25 millibars. Weather maps often use 1013 or 1016 hPa as a nearby reference. 500 hPa is a standard upper-air pressure level, around the middle of the atmosphere by mass, not the surface value."
+  },
+  {
+    "stem": "An isobar is a line on a weather map joining places of equal",
+    "a": "Temperature",
+    "b": "Rainfall",
+    "c": "Pressure",
+    "d": "Humidity",
+    "correct": "C",
+    "explanation": "Isobars connect equal pressure, usually reduced to mean sea level so height differences do not dominate the map. Close isobars mean a strong pressure gradient and stronger wind. Isotherms join equal temperature. Isohyets join equal rainfall."
+  },
+  {
+    "stem": "An isotherm joins places of equal",
+    "a": "Pressure",
+    "b": "Temperature",
+    "c": "Wind speed",
+    "d": "Cloud height",
+    "correct": "B",
+    "explanation": "The prefix 'iso' means equal, and 'therm' refers to temperature. Isotherms are used on climate maps and on some upper-air analyses. Isobars are the equal-pressure lines. Wind speed is shown by barbs or isotachs, not by isotherms."
+  },
+  {
+    "stem": "Relative humidity is the ratio of",
+    "a": "The actual vapour pressure to the saturation vapour pressure at that temperature",
+    "b": "Rainfall today to rainfall yesterday",
+    "c": "Wind speed to the speed of sound",
+    "d": "Oxygen to nitrogen",
+    "correct": "A",
+    "explanation": "Relative humidity compares how much water vapour is present with the maximum the air can hold at the same temperature. It is usually given as a percentage. Warm air can hold more vapour, so the same amount of moisture gives a lower relative humidity in warmer air. It is not a ratio of two gases in dry air."
+  },
+  {
+    "stem": "The dew point is the temperature at which",
+    "a": "Air becomes saturated if cooled at constant pressure",
+    "b": "Water always boils",
+    "c": "A dry parcel stops rising",
+    "d": "The wind changes direction",
+    "correct": "A",
+    "explanation": "If air is cooled at constant pressure without adding or removing moisture, condensation begins at the dew point. The closer the air temperature is to the dew point, the higher the relative humidity. When they are equal, relative humidity is about 100 percent and fog or dew can form."
+  },
+  {
+    "stem": "Cloud droplets form more readily when the air contains",
+    "a": "Condensation nuclei",
+    "b": "No dust of any kind",
+    "c": "Only argon",
+    "d": "A temperature inversion above 50 km",
+    "correct": "A",
+    "explanation": "Water vapour condenses onto tiny particles called condensation nuclei, such as salt, dust, and smoke. Pure air without nuclei would need a much higher relative humidity before droplets appeared. Those particles are why clouds form at the humidities we actually observe."
+  },
+  {
+    "stem": "Cirrus clouds are best described as",
+    "a": "Low, grey, rain-bearing sheets",
+    "b": "High, thin ice clouds",
+    "c": "Thunderstorm towers",
+    "d": "Fog touching the ground",
+    "correct": "B",
+    "explanation": "Cirrus are high clouds, usually made of ice crystals, and they often look wispy. They do not produce heavy rain at the ground by themselves. Cumulonimbus are the thunderstorm clouds. Stratus are the low grey sheets. Fog is a cloud with its base at the surface."
+  },
+  {
+    "stem": "Which cloud is the typical thunderstorm cloud?",
+    "a": "Cirrus",
+    "b": "Cirrostratus",
+    "c": "Cumulonimbus",
+    "d": "Altostratus",
+    "correct": "C",
+    "explanation": "Cumulonimbus clouds have strong vertical development and produce thunder, lightning, heavy showers, and sometimes hail. Cirrus and cirrostratus are high ice clouds. Altostratus is a middle-level sheet that can give steady rain, but it is not the thunderstorm cloud."
+  },
+  {
+    "stem": "Stratus cloud is typically",
+    "a": "A low, layered sheet",
+    "b": "A small fair-weather puff with little vertical growth",
+    "c": "A high hook of ice",
+    "d": "The clear eye of a cyclone",
+    "correct": "A",
+    "explanation": "Stratus is a low, fairly uniform layer, sometimes with drizzle or a grey overcast. Cumulus humilis is the small fair-weather puff. Cirrus is the high ice cloud. The eye of a tropical cyclone is a relatively clear region of sinking air, not a cloud type."
+  },
+  {
+    "stem": "Radiation fog is most likely on a night that is",
+    "a": "Cloudy and very windy",
+    "b": "Clear and calm, or with only a light wind",
+    "c": "Hot, dry, and cloudless at midday",
+    "d": "Inside the eye of a hurricane",
+    "correct": "B",
+    "explanation": "Radiation fog forms when the ground loses heat to a clear sky and cools the air next to it to the dew point. A light wind mixes a shallow layer; a strong wind mixes too much dry air and breaks the fog up. Thick cloud reduces the overnight cooling, so radiation fog is less likely then."
+  },
+  {
+    "stem": "Advection fog forms when",
+    "a": "Warm, moist air moves over a colder surface",
+    "b": "Cold air sinks inside a thunderstorm",
+    "c": "A rain gauge overflows",
+    "d": "The ozone layer thickens",
+    "correct": "A",
+    "explanation": "Advection means horizontal movement. Warm moist air blowing over colder sea or land is chilled to saturation, and fog forms. This is common along cool coasts. It is different from radiation fog, which is caused by local overnight cooling under a clear sky."
+  },
+  {
+    "stem": "Hail is produced mainly in",
+    "a": "Cirrus cloud with no updraft",
+    "b": "Cumulonimbus cloud with strong updrafts",
+    "c": "Radiation fog",
+    "d": "A Stevenson screen",
+    "correct": "B",
+    "explanation": "Hailstones grow by being carried up and down through a cumulonimbus, collecting layers of supercooled water. That needs a strong updraft. Thin cirrus and fog do not contain those updrafts. A Stevenson screen only shelters thermometers."
+  },
+  {
+    "stem": "In the Northern Hemisphere the Coriolis force deflects moving air",
+    "a": "To the right of its motion",
+    "b": "To the left of its motion",
+    "c": "Straight up",
+    "d": "Only toward the equator",
+    "correct": "A",
+    "explanation": "Because the Earth rotates, moving air is deflected to the right in the Northern Hemisphere and to the left in the Southern Hemisphere. The deflection is zero at the equator and stronger toward the poles. It changes direction, not the speed, of the wind."
+  },
+  {
+    "stem": "The pressure-gradient force drives air",
+    "a": "From low pressure toward high pressure",
+    "b": "From high pressure toward low pressure",
+    "c": "Only along the equator",
+    "d": "From cold air toward warm air in every case",
+    "correct": "B",
+    "explanation": "Air is pushed from higher pressure toward lower pressure. The steeper the pressure change over a given distance, the stronger that force and, usually, the stronger the wind. Other forces, especially Coriolis and friction, then bend the actual wind away from a straight high-to-low path."
+  },
+  {
+    "stem": "Geostrophic wind is the wind that results when",
+    "a": "Friction exactly cancels gravity",
+    "b": "The Coriolis force balances the pressure-gradient force",
+    "c": "The air is saturated",
+    "d": "Temperature is constant from pole to pole",
+    "correct": "B",
+    "explanation": "Above the friction layer, the Coriolis force can balance the pressure-gradient force. The resulting geostrophic wind blows parallel to the isobars, with low pressure to the left in the Northern Hemisphere. It is an ideal used to read upper-air maps. Near the ground, friction slows the wind and turns it slightly toward lower pressure."
+  },
+  {
+    "stem": "Around a low-pressure centre in the Northern Hemisphere, the surface wind blows",
+    "a": "Clockwise and outward",
+    "b": "Counterclockwise and inward",
+    "c": "Only from east to west",
+    "d": "Straight down",
+    "correct": "B",
+    "explanation": "A Northern Hemisphere cyclone has counterclockwise flow. Friction near the surface also gives the wind an inward component, so air converges and rises. A high, or anticyclone, has clockwise flow and outward motion near the surface. The directions are reversed in the Southern Hemisphere."
+  },
+  {
+    "stem": "An anticyclone is a region of",
+    "a": "Low pressure with rising air and cloud",
+    "b": "High pressure with generally sinking air",
+    "c": "A tropical storm's eye wall only",
+    "d": "Equal pressure everywhere",
+    "correct": "B",
+    "explanation": "An anticyclone is a high-pressure system. Air sinks, which warms it and often clears the cloud. In the Northern Hemisphere the wind around it is clockwise. A cyclone is the low-pressure counterpart, with rising air and more cloud and rain."
+  },
+  {
+    "stem": "At a cold front,",
+    "a": "Cold air advances and replaces warmer air",
+    "b": "Warm air advances and replaces colder air",
+    "c": "Two warm air masses meet and stop",
+    "d": "Pressure is the same on both sides by definition",
+    "correct": "A",
+    "explanation": "A cold front is the leading edge of colder air. The cold air undercuts the warm air, the slope is relatively steep, and showers or thunderstorms are common. A warm front is the opposite case: warm air advances over retreating colder air. The front is drawn where the two air masses meet, not where pressure is forced to be equal."
+  },
+  {
+    "stem": "A warm front typically brings",
+    "a": "A narrow band of violent squalls as its only possible weather",
+    "b": "Widespread cloud and steadier rain as warm air rises over colder air",
+    "c": "No cloud, because warm air cannot rise",
+    "d": "A reversal of the Earth's rotation",
+    "correct": "B",
+    "explanation": "At a warm front the warm air glides up a gentle slope over the cold air ahead of it. That produces thickening cloud and often prolonged, steadier rain. Cold fronts are steeper and more often give a narrower band of showers. Warm air is less dense, so it does rise over the colder air."
+  },
+  {
+    "stem": "An occluded front forms when",
+    "a": "A cold front catches up with a warm front",
+    "b": "The dew point falls to absolute zero",
+    "c": "Isobars become perfectly straight",
+    "d": "A barometer is placed in a Stevenson screen",
+    "correct": "A",
+    "explanation": "In a developing low, the cold front often moves faster than the warm front and lifts the warm air off the ground. The join is an occlusion. It is a late stage in the life of many mid-latitude cyclones. It is a feature of the pressure and air-mass pattern, not of an instrument."
+  },
+  {
+    "stem": "A continental polar (cP) air mass is typically",
+    "a": "Warm and very moist",
+    "b": "Cold and dry",
+    "c": "Hot and dusty from the sea",
+    "d": "Identical to a maritime tropical air mass",
+    "correct": "B",
+    "explanation": "Air-mass names give the source region. Continental means formed over land, so the air is relatively dry. Polar means a high-latitude source, so it is cold. Maritime tropical (mT) air is the contrasting case: warm and moist, because it forms over warm oceans."
+  },
+  {
+    "stem": "A maritime tropical (mT) air mass is typically",
+    "a": "Cold and dry",
+    "b": "Warm and moist",
+    "c": "Found only above the stratopause",
+    "d": "Free of water vapour by definition",
+    "correct": "B",
+    "explanation": "Maritime tropical air comes from warm oceans, so it carries heat and abundant moisture. It is a common source of humid weather and, when lifted, heavy rain. Continental polar air is cold and dry. The name describes the source region near the surface, not the upper atmosphere."
+  },
+  {
+    "stem": "The jet stream is",
+    "a": "A narrow belt of strong winds in the upper troposphere",
+    "b": "A surface sea breeze of about 5 knots",
+    "c": "The rain shaft under a stratus cloud",
+    "d": "Another name for the ozone layer",
+    "correct": "A",
+    "explanation": "Jet streams are fast, narrow currents near the tropopause, often westerly in middle latitudes, with speeds that can exceed 100 knots. They steer mid-latitude weather systems. A sea breeze is a shallow local wind. The ozone layer is a chemical feature of the stratosphere, not a wind current."
+  },
+  {
+    "stem": "The word monsoon refers to",
+    "a": "A single thunderstorm",
+    "b": "A seasonal reversal of the prevailing wind",
+    "c": "Any wind above 5 metres per second",
+    "d": "The dew point at midnight",
+    "correct": "B",
+    "explanation": "A monsoon is a large-scale seasonal change in wind direction, classically between a dry winter flow and a moist summer flow. In South Asia the summer monsoon blows from the sea onto the land and brings most of the annual rain to the eastern plains. One storm, or a fixed speed, is not what the word means."
+  },
+  {
+    "stem": "Winter rain and snow over northern Pakistan are associated mainly with",
+    "a": "Western disturbances",
+    "b": "The eye of a tropical cyclone over the Arabian Sea every week",
+    "c": "A permanent high at the equator",
+    "d": "Radiation fog only",
+    "correct": "A",
+    "explanation": "Western disturbances are mid-latitude lows and troughs that travel from the Mediterranean region toward Pakistan and northern India in winter. They bring cloud, rain, and snow to the north and west. The summer monsoon is a different, warm-season system. Fog may occur locally, but it does not explain the regional winter precipitation."
+  },
+  {
+    "stem": "Tropical cyclones draw most of their energy from",
+    "a": "Latent heat released when water vapour condenses over a warm ocean",
+    "b": "Friction with desert sand",
+    "c": "The pull of the Moon",
+    "d": "Carbon dioxide freezing in the eye",
+    "correct": "A",
+    "explanation": "Warm ocean water, generally above about 26°C through a deep surface layer, evaporates into the storm. When that vapour condenses in the clouds, it releases latent heat and powers the circulation. Tropical cyclones weaken over land or over cold water because that moisture supply is cut off."
+  },
+  {
+    "stem": "The eye of a mature tropical cyclone is typically",
+    "a": "The windiest and rainiest part",
+    "b": "A relatively calm, clearer centre with sinking air",
+    "c": "A region of no pressure gradient by global law",
+    "d": "Found only in winter over continents",
+    "correct": "B",
+    "explanation": "The eye is the centre of the storm. Air sinks there, cloud breaks, and winds are comparatively light. The fiercest wind and rain are in the eye wall that surrounds it. Tropical cyclones are warm-season ocean storms, not a winter continental feature."
+  },
+  {
+    "stem": "The greenhouse effect is the process by which the atmosphere",
+    "a": "Reflects all sunlight back to space",
+    "b": "Absorbs outgoing longwave radiation and returns some heat to the surface",
+    "c": "Removes all carbon dioxide",
+    "d": "Stops the Coriolis force",
+    "correct": "B",
+    "explanation": "The surface is warmed by sunlight and emits infrared, or longwave, radiation. Greenhouse gases absorb part of that infrared and radiate energy back downward, so the surface is warmer than it would be with no atmosphere. Reflection of sunlight is albedo, which cools rather than warms. Without some greenhouse effect, Earth would be much colder."
+  },
+  {
+    "stem": "Albedo is",
+    "a": "The fraction of incoming solar radiation that a surface reflects",
+    "b": "The dew point minus the air temperature",
+    "c": "The speed of the jet stream",
+    "d": "The depth of a rain gauge",
+    "correct": "A",
+    "explanation": "Albedo is reflectivity. Fresh snow has a high albedo and reflects most sunlight. A dark wet soil or ocean has a low albedo and absorbs more. It is a fraction or percentage of incoming shortwave radiation, not a temperature difference or a wind speed."
+  },
+  {
+    "stem": "The atmosphere is conditionally unstable when the environmental lapse rate is",
+    "a": "Greater than the dry adiabatic lapse rate",
+    "b": "Smaller than the saturated adiabatic lapse rate",
+    "c": "Between the saturated and the dry adiabatic lapse rates",
+    "d": "Exactly zero at every height",
+    "correct": "C",
+    "explanation": "If the environment cools faster than the saturated rate but slower than the dry rate, a dry parcel sinks back, while a saturated parcel keeps rising. That in-between state is conditional instability: the air is unstable only if it is already saturated. A lapse rate steeper than the dry rate is absolute instability. A lapse rate weaker than the saturated rate is absolute stability."
+  }
+]

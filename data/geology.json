@@ -1,0 +1,452 @@
+[
+  {
+    "stem": "Earth's outermost solid layer is the",
+    "a": "crust",
+    "b": "outer core",
+    "c": "inner core",
+    "d": "atmosphere",
+    "correct": "A",
+    "explanation": "The crust is the thin outer shell. Beneath it lies the mantle, then the outer core and the inner core."
+  },
+  {
+    "stem": "The thickest of Earth's main layers by volume is the",
+    "a": "crust",
+    "b": "inner core",
+    "c": "ocean",
+    "d": "mantle",
+    "correct": "D",
+    "explanation": "The mantle extends from the base of the crust to the outer core and makes up most of Earth's volume. The crust is thin by comparison."
+  },
+  {
+    "stem": "The inner core is",
+    "a": "made of granite",
+    "b": "part of the atmosphere",
+    "c": "solid and mainly iron",
+    "d": "a liquid ocean",
+    "correct": "C",
+    "explanation": "The inner core is solid metal, mostly iron with some nickel. The outer core is the liquid metal layer around it."
+  },
+  {
+    "stem": "Oceanic crust is, compared with continental crust,",
+    "a": "older in every ocean",
+    "b": "thinner and denser",
+    "c": "thicker and made of granite",
+    "d": "made of soil only",
+    "correct": "B",
+    "explanation": "Oceanic crust is basaltic, thin, and dense. Continental crust is thicker, lighter, and often granitic."
+  },
+  {
+    "stem": "Granite is a typical rock of the",
+    "a": "continental crust",
+    "b": "ocean floor",
+    "c": "inner core",
+    "d": "atmosphere",
+    "correct": "A",
+    "explanation": "Continents contain large amounts of granite and similar light-coloured rocks. The ocean floor is mainly basalt."
+  },
+  {
+    "stem": "Basalt is a common rock of the",
+    "a": "inner core",
+    "b": "ice sheets",
+    "c": "stratosphere",
+    "d": "oceanic crust",
+    "correct": "D",
+    "explanation": "Basalt is a dark, fine-grained igneous rock that forms the ocean floor and many lava flows."
+  },
+  {
+    "stem": "Igneous rocks form from",
+    "a": "the squeezing of limestone with no melting or change",
+    "b": "the decay of plants alone",
+    "c": "the cooling of molten rock",
+    "d": "the cementing of pebbles only",
+    "correct": "C",
+    "explanation": "Magma or lava cools and crystallises to make igneous rock. Granite and basalt are examples."
+  },
+  {
+    "stem": "Sedimentary rocks form from",
+    "a": "lightning",
+    "b": "the accumulation and hardening of sediment",
+    "c": "the direct cooling of magma in every case",
+    "d": "the inner core",
+    "correct": "B",
+    "explanation": "Sand, mud, and the remains of organisms settle and become rock. Sandstone, shale, and limestone are sedimentary."
+  },
+  {
+    "stem": "Metamorphic rocks form when existing rocks are",
+    "a": "changed by heat and pressure without complete melting",
+    "b": "melted and then cooled as lava at the surface",
+    "c": "left unchanged",
+    "d": "dissolved into the air",
+    "correct": "A",
+    "explanation": "Metamorphism alters a rock in the solid state. Marble from limestone, and slate from shale, are examples."
+  },
+  {
+    "stem": "Marble is the metamorphic form of",
+    "a": "granite",
+    "b": "basalt only",
+    "c": "coal in every case",
+    "d": "limestone",
+    "correct": "D",
+    "explanation": "Heat and pressure recrystallise limestone into marble. Slate, by contrast, comes from shale."
+  },
+  {
+    "stem": "Fossils are found mainly in",
+    "a": "fresh lava that has just cooled",
+    "b": "the liquid outer core",
+    "c": "sedimentary rocks",
+    "d": "the inner core",
+    "correct": "C",
+    "explanation": "Organisms are buried in sediment. The heat of magma would destroy them, so fossils are rare in igneous and many metamorphic rocks."
+  },
+  {
+    "stem": "A mineral is",
+    "a": "a type of cloud",
+    "b": "a naturally occurring inorganic solid with a definite composition and crystal structure",
+    "c": "any rock of mixed grains",
+    "d": "a fossil",
+    "correct": "B",
+    "explanation": "Quartz is a mineral. Granite is a rock made of several minerals, including quartz and feldspar."
+  },
+  {
+    "stem": "A rock is",
+    "a": "a solid mixture of one or more minerals",
+    "b": "always a single crystal of one element",
+    "c": "a liquid",
+    "d": "a gas in the atmosphere",
+    "correct": "A",
+    "explanation": "Rocks are aggregates. A piece of granite contains several minerals locked together."
+  },
+  {
+    "stem": "The hardest mineral on the Mohs scale is",
+    "a": "talc",
+    "b": "gypsum",
+    "c": "calcite",
+    "d": "diamond",
+    "correct": "D",
+    "explanation": "Diamond is 10, the top of the Mohs scale. Talc is 1, the softest standard mineral."
+  },
+  {
+    "stem": "Talc is used as the soft end of the Mohs scale and has hardness",
+    "a": "7",
+    "b": "10",
+    "c": "1",
+    "d": "5",
+    "correct": "C",
+    "explanation": "Talc can be scratched by a fingernail. Diamond, at 10, scratches every other mineral."
+  },
+  {
+    "stem": "Quartz has a Mohs hardness of",
+    "a": "10",
+    "b": "7",
+    "c": "1",
+    "d": "2",
+    "correct": "B",
+    "explanation": "Quartz is harder than steel and than feldspar, and it sits at 7. It is a very common mineral."
+  },
+  {
+    "stem": "Weathering is",
+    "a": "the breakdown of rock in place",
+    "b": "the transport of sediment by a river",
+    "c": "the melting of the core",
+    "d": "a volcanic eruption only",
+    "correct": "A",
+    "explanation": "Weathering loosens and decomposes rock where it stands. Erosion is the removal and carrying away of the pieces."
+  },
+  {
+    "stem": "Erosion is",
+    "a": "the breakdown of rock with no movement",
+    "b": "the growth of a crystal in place",
+    "c": "the formation of magma",
+    "d": "the removal and transport of weathered material",
+    "correct": "D",
+    "explanation": "Rivers, wind, ice, and waves carry sediment away. That transport is erosion, which follows weathering."
+  },
+  {
+    "stem": "A glacier erodes mainly by",
+    "a": "leaving the rock untouched",
+    "b": "depositing lava",
+    "c": "plucking and abrasion",
+    "d": "dissolving the whole mountain in one day",
+    "correct": "C",
+    "explanation": "Ice freezes onto rock and pulls pieces away, which is plucking. Rock frozen in the ice also scrapes the bed, which is abrasion."
+  },
+  {
+    "stem": "The theory of plate tectonics says that the outer Earth is",
+    "a": "made only of sediment",
+    "b": "divided into plates that move",
+    "c": "one unbroken shell that has never moved",
+    "d": "liquid from the surface downward",
+    "correct": "B",
+    "explanation": "The lithosphere is broken into plates. They separate, collide, or slide past one another."
+  },
+  {
+    "stem": "At a divergent boundary, plates",
+    "a": "move apart",
+    "b": "only collide",
+    "c": "remain fixed",
+    "d": "turn into the atmosphere",
+    "correct": "A",
+    "explanation": "Divergence opens a gap that magma fills. Mid-ocean ridges are the common example."
+  },
+  {
+    "stem": "At a convergent boundary, plates",
+    "a": "move apart",
+    "b": "do not interact",
+    "c": "become rivers",
+    "d": "move toward each other",
+    "correct": "D",
+    "explanation": "Convergence leads to collision or to one plate sinking under the other. Mountains, trenches, and earthquakes result."
+  },
+  {
+    "stem": "Continental drift, as proposed by Wegener, argued that",
+    "a": "the oceans are older than the Earth",
+    "b": "mountains are made of ice",
+    "c": "the continents were once joined and have since moved",
+    "d": "the continents are fixed forever",
+    "correct": "C",
+    "explanation": "Wegener pointed to matching coasts, fossils, and rocks. Plate tectonics later explained how the movement happens."
+  },
+  {
+    "stem": "Pangaea is the name given to",
+    "a": "a mineral",
+    "b": "an ancient supercontinent",
+    "c": "the liquid outer core",
+    "d": "a modern ocean trench",
+    "correct": "B",
+    "explanation": "The continents were assembled in one large land mass, Pangaea, before they separated. The matching shapes of South America and Africa are a familiar clue."
+  },
+  {
+    "stem": "The lithosphere includes",
+    "a": "the crust and the rigid uppermost mantle",
+    "b": "only the liquid outer core",
+    "c": "only the ocean water",
+    "d": "the inner core alone",
+    "correct": "A",
+    "explanation": "Tectonic plates are pieces of lithosphere. Below them, the asthenosphere is hotter and can flow slowly."
+  },
+  {
+    "stem": "Magma is molten rock that is",
+    "a": "flowing on the surface",
+    "b": "a sedimentary pebble",
+    "c": "a fossil",
+    "d": "still beneath the surface",
+    "correct": "D",
+    "explanation": "Molten rock underground is magma. Once it reaches the surface it is called lava."
+  },
+  {
+    "stem": "Lava is",
+    "a": "a sedimentary rock",
+    "b": "groundwater",
+    "c": "molten rock that has reached the surface",
+    "d": "a mineral of hardness 1",
+    "correct": "C",
+    "explanation": "Lava is magma that has erupted. It cools to form volcanic igneous rock such as basalt."
+  },
+  {
+    "stem": "An intrusive igneous rock cools",
+    "a": "without ever being molten",
+    "b": "slowly underground",
+    "c": "instantly in the air",
+    "d": "only in the ocean as sediment",
+    "correct": "B",
+    "explanation": "Slow cooling underground allows large crystals, as in granite. Fast cooling at the surface gives fine grains, as in basalt."
+  },
+  {
+    "stem": "Large crystals in an igneous rock suggest that it cooled",
+    "a": "slowly",
+    "b": "in a few seconds at the surface",
+    "c": "as a sediment in a river",
+    "d": "by evaporation of seawater only",
+    "correct": "A",
+    "explanation": "Crystals need time to grow. A coarse rock such as granite cooled slowly, usually deep underground."
+  },
+  {
+    "stem": "Sandstone is",
+    "a": "an intrusive igneous rock",
+    "b": "the inner core",
+    "c": "a gas",
+    "d": "a sedimentary rock made of sand grains",
+    "correct": "D",
+    "explanation": "Sand is deposited, buried, and cemented into sandstone. The grains are often quartz."
+  },
+  {
+    "stem": "Limestone is often formed from",
+    "a": "the inner core",
+    "b": "pure iron only",
+    "c": "the shells and skeletons of marine organisms",
+    "d": "cooled granite",
+    "correct": "C",
+    "explanation": "Many limestones are made of calcium carbonate from marine life. They are sedimentary rocks."
+  },
+  {
+    "stem": "Slate forms by metamorphism of",
+    "a": "the outer core",
+    "b": "shale",
+    "c": "granite in every case",
+    "d": "diamond",
+    "correct": "B",
+    "explanation": "Mudstone or shale, squeezed and heated, becomes slate, which splits into sheets. Marble comes from limestone, not from shale."
+  },
+  {
+    "stem": "The rock cycle describes",
+    "a": "the ways rocks change from one type to another",
+    "b": "the orbit of the Moon",
+    "c": "the water cycle only",
+    "d": "a fixed set of rocks that never change",
+    "correct": "A",
+    "explanation": "Igneous, sedimentary, and metamorphic rocks can be weathered, melted, or altered into one another. That continuous change is the rock cycle."
+  },
+  {
+    "stem": "A volcano is an opening where",
+    "a": "only groundwater appears",
+    "b": "sedimentary rock is deposited by a river",
+    "c": "the inner core is exposed",
+    "d": "magma reaches the surface",
+    "correct": "D",
+    "explanation": "Magma rises and erupts as lava, ash, or gas. The build-up of that material forms the volcanic cone."
+  },
+  {
+    "stem": "Most volcanoes occur",
+    "a": "only at the poles",
+    "b": "in the inner core",
+    "c": "near plate boundaries",
+    "d": "at random in the middle of every continent",
+    "correct": "C",
+    "explanation": "Magma is generated where plates separate or where one plate sinks. The Pacific Ring of Fire is the clearest belt."
+  },
+  {
+    "stem": "Chemical weathering includes",
+    "a": "an earthquake",
+    "b": "the dissolving or alteration of minerals by water and air",
+    "c": "the splitting of rock by ice with no chemical change",
+    "d": "transport by a river",
+    "correct": "B",
+    "explanation": "Rainwater can dissolve limestone, and oxygen can rust iron minerals. Breaking rock by frost, without a chemical change, is mechanical weathering."
+  },
+  {
+    "stem": "Frost shattering is a form of",
+    "a": "mechanical weathering",
+    "b": "chemical cementation",
+    "c": "metamorphism",
+    "d": "volcanic eruption",
+    "correct": "A",
+    "explanation": "Water freezes in cracks, expands, and pries the rock apart. The pieces are unchanged in composition, so the weathering is mechanical."
+  },
+  {
+    "stem": "Soil is produced mainly by",
+    "a": "the cooling of the inner core",
+    "b": "rainfall alone with no rock",
+    "c": "the deposition of pure salt in every climate",
+    "d": "weathering of rock together with organic matter",
+    "correct": "D",
+    "explanation": "Broken and chemically altered rock mixes with humus from plants and animals. Climate, slope, and time control the soil that results."
+  },
+  {
+    "stem": "A sedimentary layer is called a",
+    "a": "crystal face",
+    "b": "seismogram",
+    "c": "bed or stratum",
+    "d": "fault in every case",
+    "correct": "C",
+    "explanation": "Sediments are laid down in layers. A single layer is a bed, or stratum, and several are strata."
+  },
+  {
+    "stem": "In an undisturbed sequence, the youngest sedimentary layer is",
+    "a": "the one with no grains",
+    "b": "at the top",
+    "c": "always at the bottom",
+    "d": "in the middle by law",
+    "correct": "B",
+    "explanation": "New sediment is laid on top of older sediment. Unless the pile is overturned, the top bed is the youngest."
+  },
+  {
+    "stem": "An unconformity is",
+    "a": "a gap in the rock record",
+    "b": "a perfect continuous sequence with no missing time",
+    "c": "a mineral of hardness 10",
+    "d": "the liquid core",
+    "correct": "A",
+    "explanation": "If erosion or non-deposition interrupts the sequence, the contact between older and younger rocks is an unconformity. Time is missing from the record."
+  },
+  {
+    "stem": "Folding of rocks is evidence of",
+    "a": "no force at all",
+    "b": "the rock remaining perfectly flat",
+    "c": "chemical weathering only",
+    "d": "compression and ductile deformation",
+    "correct": "D",
+    "explanation": "Layers bend into anticlines and synclines when they are squeezed while warm or deeply buried. Brittle rock may fault instead."
+  },
+  {
+    "stem": "An anticline is a fold in which the layers",
+    "a": "are broken with no bend",
+    "b": "have melted",
+    "c": "arch upward",
+    "d": "sag downward",
+    "correct": "C",
+    "explanation": "An anticline is an upfold, with the oldest beds near the centre. A downfold is a syncline."
+  },
+  {
+    "stem": "A syncline is a fold in which the layers",
+    "a": "are a single crystal",
+    "b": "bend downward",
+    "c": "arch upward",
+    "d": "stand as a vertical dike of magma",
+    "correct": "B",
+    "explanation": "A syncline is a downfold. Younger beds lie toward its centre if the fold has not been overturned."
+  },
+  {
+    "stem": "Groundwater is water that",
+    "a": "occupies pores and cracks below the surface",
+    "b": "flows only in rivers",
+    "c": "is the water vapour in a cloud",
+    "d": "forms the outer core",
+    "correct": "A",
+    "explanation": "After rain soaks in, water fills the spaces in soil and rock. That subsurface water is groundwater."
+  },
+  {
+    "stem": "An aquifer is",
+    "a": "a layer that lets no water through",
+    "b": "a volcano",
+    "c": "a fossil",
+    "d": "a body of rock or sediment that can yield water",
+    "correct": "D",
+    "explanation": "Porous and permeable material such as sand or sandstone can store and transmit groundwater. A layer that blocks water is an aquiclude."
+  },
+  {
+    "stem": "Permeability is",
+    "a": "the age of a fossil",
+    "b": "the height of a mountain",
+    "c": "the ability of a material to let fluid pass through",
+    "d": "the colour of a mineral",
+    "correct": "C",
+    "explanation": "A permeable rock has connected pores or cracks. Clay may hold water but pass it very slowly, so its permeability is low."
+  },
+  {
+    "stem": "The Himalayas are geologically young mountains formed by",
+    "a": "river deposition only",
+    "b": "the collision of India with Eurasia",
+    "c": "the spreading of a mid-ocean ridge in Sindh",
+    "d": "the cooling of the inner core",
+    "correct": "B",
+    "explanation": "The Indian plate is still pushing northward. The collision thickens the crust and lifts the Himalayas."
+  },
+  {
+    "stem": "Alluvium is",
+    "a": "sediment deposited by a river",
+    "b": "a plutonic igneous rock",
+    "c": "the solid inner core",
+    "d": "a metamorphic rock formed at depth",
+    "correct": "A",
+    "explanation": "Rivers drop sand, silt, and clay on floodplains and in deltas. That river deposit is alluvium, and much of the Indus plain is covered by it."
+  },
+  {
+    "stem": "A delta forms where",
+    "a": "a glacier starts",
+    "b": "magma cools underground",
+    "c": "two faults slide sideways",
+    "d": "a river drops sediment as it enters a standing body of water",
+    "correct": "D",
+    "explanation": "The flow slows at the mouth, so the river cannot carry its load. The Indus has built a delta where it meets the Arabian Sea."
+  }
+]

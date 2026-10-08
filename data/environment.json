@@ -1,0 +1,452 @@
+[
+  {
+    "stem": "Ecology is the study of",
+    "a": "rocks only",
+    "b": "interactions between organisms and their environment",
+    "c": "ocean tides only",
+    "d": "computer networks",
+    "correct": "B",
+    "explanation": "Ecology deals with how living things relate to one another and to their surroundings. Geology is the study of rocks."
+  },
+  {
+    "stem": "An ecosystem includes",
+    "a": "living things and their non-living surroundings",
+    "b": "only the climate",
+    "c": "only human buildings",
+    "d": "only the animals",
+    "correct": "A",
+    "explanation": "An ecosystem is the community of organisms together with soil, water, air, and energy. Leaving out the non-living part leaves only the community."
+  },
+  {
+    "stem": "In a food chain, producers are usually",
+    "a": "decomposers only",
+    "b": "herbivores",
+    "c": "green plants",
+    "d": "carnivores",
+    "correct": "C",
+    "explanation": "Producers make their own food, usually by photosynthesis. Herbivores and carnivores are consumers."
+  },
+  {
+    "stem": "A herbivore eats",
+    "a": "nothing",
+    "b": "only meat",
+    "c": "plants",
+    "d": "only fungi that are already dead",
+    "correct": "C",
+    "explanation": "Herbivores feed on plants. Carnivores eat other animals, and omnivores eat both."
+  },
+  {
+    "stem": "Decomposers are important because they",
+    "a": "block all nutrient cycles",
+    "b": "break down dead matter and return nutrients",
+    "c": "produce ozone in cities",
+    "d": "stop photosynthesis",
+    "correct": "B",
+    "explanation": "Bacteria and fungi break down dead organisms. The released nutrients can be used again by plants."
+  },
+  {
+    "stem": "Biodiversity means",
+    "a": "the amount of rainfall only",
+    "b": "a single crop grown everywhere",
+    "c": "the speed of wind",
+    "d": "the variety of life",
+    "correct": "D",
+    "explanation": "Biodiversity is the variety of species, genes, and ecosystems. A landscape with only one crop has low biodiversity."
+  },
+  {
+    "stem": "Photosynthesis in green plants uses",
+    "a": "only nitrogen",
+    "b": "rock dust",
+    "c": "carbon dioxide and water, in light",
+    "d": "only oxygen and darkness",
+    "correct": "C",
+    "explanation": "In light, plants combine carbon dioxide and water to make sugars and release oxygen. They do not photosynthesise in the way described by the other options."
+  },
+  {
+    "stem": "The main gas taken in by plants during photosynthesis is",
+    "a": "ozone",
+    "b": "oxygen",
+    "c": "carbon dioxide",
+    "d": "argon",
+    "correct": "C",
+    "explanation": "Plants take in carbon dioxide and release oxygen in photosynthesis. Oxygen is a product, not the main gas absorbed for that process."
+  },
+  {
+    "stem": "Deforestation tends to",
+    "a": "increase forest cover",
+    "b": "remove tree cover and can increase erosion and carbon release",
+    "c": "create new soil instantly",
+    "d": "stop all rainfall forever by itself",
+    "correct": "B",
+    "explanation": "Clearing forest exposes soil to erosion and removes a store of carbon. It does not immediately make new soil, and it does not by itself end all rain."
+  },
+  {
+    "stem": "Soil erosion is",
+    "a": "the formation of diamonds",
+    "b": "a rise in ocean salinity only",
+    "c": "the freezing of rivers",
+    "d": "the wearing away and removal of soil",
+    "correct": "D",
+    "explanation": "Wind and water can detach soil and carry it away. That loss of topsoil is erosion."
+  },
+  {
+    "stem": "A renewable energy source is",
+    "a": "solar energy",
+    "b": "natural gas from a finite field",
+    "c": "coal",
+    "d": "petroleum",
+    "correct": "A",
+    "explanation": "Solar energy is continually supplied. Coal, petroleum, and natural gas are fossil fuels that are used up much faster than they form."
+  },
+  {
+    "stem": "Coal and petroleum are",
+    "a": "forms of liquid nitrogen",
+    "b": "renewable in a human lifetime",
+    "c": "fossil fuels",
+    "d": "types of wind",
+    "correct": "C",
+    "explanation": "Coal and petroleum formed from ancient organic matter and are fossil fuels. They are not replaced on a human timescale."
+  },
+  {
+    "stem": "Acid rain is associated with",
+    "a": "sulphur dioxide and nitrogen oxides",
+    "b": "pure oxygen only",
+    "c": "helium",
+    "d": "table salt in rivers only",
+    "correct": "A",
+    "explanation": "Sulphur dioxide and nitrogen oxides from burning fuels form acids in the atmosphere. Those acids make rain more acidic than normal."
+  },
+  {
+    "stem": "The ozone layer is important because it",
+    "a": "absorbs much harmful ultraviolet radiation",
+    "b": "is the main source of drinking water",
+    "c": "creates coal",
+    "d": "blocks farming",
+    "correct": "A",
+    "explanation": "Stratospheric ozone absorbs ultraviolet light that can damage living tissue. Near the ground, ozone is a pollutant, which is a different problem."
+  },
+  {
+    "stem": "The Montreal Protocol is mainly concerned with",
+    "a": "railway gauges",
+    "b": "postal services",
+    "c": "substances that deplete the ozone layer",
+    "d": "ocean shipping routes",
+    "correct": "C",
+    "explanation": "The Montreal Protocol is the international agreement that phases out ozone-depleting substances such as CFCs."
+  },
+  {
+    "stem": "The Paris Agreement deals mainly with",
+    "a": "copyright of films",
+    "b": "climate change",
+    "c": "whaling routes of the 1800s",
+    "d": "postal union",
+    "correct": "B",
+    "explanation": "The Paris Agreement, adopted in 2015, is the global framework for limiting climate change and adapting to it."
+  },
+  {
+    "stem": "The Kyoto Protocol was concerned with",
+    "a": "reducing greenhouse gas emissions",
+    "b": "banning all agriculture",
+    "c": "standardising rainfall gauges only",
+    "d": "naming clouds",
+    "correct": "A",
+    "explanation": "Kyoto set emission targets for industrialised countries. It was an earlier climate treaty, later followed by the Paris Agreement."
+  },
+  {
+    "stem": "Sustainable development aims to",
+    "a": "use every resource as fast as possible",
+    "b": "stop all economic activity",
+    "c": "ignore environmental limits",
+    "d": "meet present needs without destroying the ability of future generations to meet theirs",
+    "correct": "D",
+    "explanation": "The usual definition balances present needs with the needs of people not yet born. Using resources without limit is the opposite idea."
+  },
+  {
+    "stem": "An environmental impact assessment is",
+    "a": "a list of film awards",
+    "b": "a measurement of shoe size",
+    "c": "a study of the likely environmental effects of a proposed project",
+    "d": "a weather forecast for one hour",
+    "correct": "C",
+    "explanation": "An EIA examines how a project such as a dam or road may affect air, water, soil, and communities before a decision is made."
+  },
+  {
+    "stem": "Eutrophication of a lake is often caused by",
+    "a": "removal of every nutrient",
+    "b": "excess nutrients, such as from fertiliser or sewage",
+    "c": "a lack of all sunlight for one minute",
+    "d": "too much oxygen from the start",
+    "correct": "B",
+    "explanation": "Extra nitrogen and phosphorus can cause algal blooms. When the algae die and decay, oxygen in the water can fall and harm fish."
+  },
+  {
+    "stem": "Biodegradable waste",
+    "a": "can be broken down by living organisms",
+    "b": "never changes",
+    "c": "is always radioactive",
+    "d": "cannot include food scraps",
+    "correct": "A",
+    "explanation": "Food scraps and paper can be decomposed by microbes. Many plastics break down very slowly and are treated as non-biodegradable in ordinary conditions."
+  },
+  {
+    "stem": "The three R's of waste management begin with",
+    "a": "run, rest, repeat",
+    "b": "read, write, revise",
+    "c": "rain, river, rock",
+    "d": "reduce, reuse, recycle",
+    "correct": "D",
+    "explanation": "Reduce means create less waste, reuse means use an item again, and recycle means turn material into a new product."
+  },
+  {
+    "stem": "Smog is",
+    "a": "a kind of soil",
+    "b": "a clear mountain wind",
+    "c": "a mixture of smoke and fog or other polluted air",
+    "d": "pure water vapour only",
+    "correct": "C",
+    "explanation": "The word smog comes from smoke and fog. Modern urban smog often includes fine particles and gases from traffic and burning."
+  },
+  {
+    "stem": "Particulate matter in air refers to",
+    "a": "the sound of thunder",
+    "b": "tiny solid or liquid particles",
+    "c": "only the ozone layer",
+    "d": "dissolved salt in the sea",
+    "correct": "B",
+    "explanation": "Particulates are small airborne particles, such as dust, soot, and droplets. They affect health and can reduce visibility."
+  },
+  {
+    "stem": "Groundwater is water",
+    "a": "stored beneath the ground in soil and rock",
+    "b": "only in clouds",
+    "c": "only in glaciers on the surface",
+    "d": "falling as hail at that moment",
+    "correct": "A",
+    "explanation": "Groundwater occupies pores and cracks below the surface. Clouds and falling hail are parts of the atmosphere, not stores under the ground."
+  },
+  {
+    "stem": "An aquifer is",
+    "a": "a type of thundercloud",
+    "b": "a wind instrument",
+    "c": "a unit of rainfall",
+    "d": "a rock or sediment layer that holds and can yield groundwater",
+    "correct": "D",
+    "explanation": "Wells draw water from aquifers. The rock must be porous enough to store water and permeable enough to let it flow."
+  },
+  {
+    "stem": "Desertification is",
+    "a": "the filling of a lake by law",
+    "b": "a rise in forest biodiversity only",
+    "c": "land becoming more desert-like",
+    "d": "the growth of a rainforest",
+    "correct": "C",
+    "explanation": "Desertification is the degradation of dry land so that it supports less vegetation. It can follow drought, overgrazing, and poor land use."
+  },
+  {
+    "stem": "A greenhouse gas traps",
+    "a": "ocean salt",
+    "b": "outgoing longwave radiation",
+    "c": "only sound",
+    "d": "groundwater",
+    "correct": "B",
+    "explanation": "Greenhouse gases absorb infrared radiation emitted by Earth and send some energy back downward. That is the greenhouse effect."
+  },
+  {
+    "stem": "Which of these is a greenhouse gas?",
+    "a": "Nitrogen as the main reason for the greenhouse effect",
+    "b": "Carbon dioxide",
+    "c": "Argon",
+    "d": "Helium",
+    "correct": "B",
+    "explanation": "Carbon dioxide absorbs outgoing infrared radiation. Nitrogen and argon are abundant but are not important greenhouse gases."
+  },
+  {
+    "stem": "The largest human source of extra carbon dioxide is",
+    "a": "photosynthesis",
+    "b": "rainfall",
+    "c": "the ozone layer",
+    "d": "burning fossil fuels",
+    "correct": "D",
+    "explanation": "Burning coal, oil, and gas releases carbon that had been stored underground. Photosynthesis takes carbon dioxide in rather than being the main human source."
+  },
+  {
+    "stem": "A national park is mainly intended to",
+    "a": "store petrol",
+    "b": "measure air pressure",
+    "c": "protect nature and wildlife",
+    "d": "replace all farms",
+    "correct": "C",
+    "explanation": "National parks conserve ecosystems and species and often allow limited visitors. They are not fuel stores or weather instruments."
+  },
+  {
+    "stem": "An endangered species is one that",
+    "a": "cannot be named",
+    "b": "faces a high risk of extinction",
+    "c": "is the most common animal",
+    "d": "has just been discovered on every continent",
+    "correct": "B",
+    "explanation": "Endangered means the species is at serious risk of disappearing. A very common animal is not endangered."
+  },
+  {
+    "stem": "Bioaccumulation means",
+    "a": "a substance building up in an organism",
+    "b": "soil forming in one day",
+    "c": "wind changing direction",
+    "d": "a river drying for an hour",
+    "correct": "A",
+    "explanation": "Some pollutants, such as certain pesticides, collect in the tissues of an organism faster than they are lost. That build-up is bioaccumulation."
+  },
+  {
+    "stem": "Biomagnification means the pollutant concentration",
+    "a": "increases toward the top of a food chain",
+    "b": "exists only in plants",
+    "c": "disappears in water",
+    "d": "falls at every step of a food chain",
+    "correct": "A",
+    "explanation": "A predator eats many contaminated prey, so the concentration can be higher in the predator than in the organisms below it."
+  },
+  {
+    "stem": "Potable water is water that is",
+    "a": "only ice",
+    "b": "water mixed with oil",
+    "c": "safe to drink",
+    "d": "always sea water",
+    "correct": "C",
+    "explanation": "Potable means fit for drinking. Sea water is not potable unless the salt is removed."
+  },
+  {
+    "stem": "Water scarcity means",
+    "a": "an excess of safe drinking water",
+    "b": "not enough usable water for people's needs",
+    "c": "too many clouds",
+    "d": "a flood every day",
+    "correct": "B",
+    "explanation": "Scarcity is a shortage of water of usable quality, or of water in the right place at the right time. It is the opposite of a surplus."
+  },
+  {
+    "stem": "Afforestation means",
+    "a": "planting trees on land that was not recently forest",
+    "b": "cutting every tree",
+    "c": "draining all wetlands",
+    "d": "paving a river",
+    "correct": "A",
+    "explanation": "Afforestation establishes forest where there was none in the recent past. Deforestation is the clearing of existing forest."
+  },
+  {
+    "stem": "A wetland is valuable partly because it can",
+    "a": "stop the Earth rotating",
+    "b": "remove the need for rainfall",
+    "c": "replace the ozone layer",
+    "d": "store water, support wildlife, and filter some pollutants",
+    "correct": "D",
+    "explanation": "Marshes and similar wetlands hold floodwater, provide habitat, and can trap sediments and nutrients. They do not control the planet's rotation."
+  },
+  {
+    "stem": "Noise pollution is",
+    "a": "clean drinking water",
+    "b": "a weather front",
+    "c": "unwanted or harmful sound",
+    "d": "a kind of soil",
+    "correct": "C",
+    "explanation": "Noise is a pollutant when sound is loud or persistent enough to harm health or disturb life. It is not a chemical in water or a cloud type."
+  },
+  {
+    "stem": "The main cause of the South Asian brown cloud and much urban haze is",
+    "a": "pure nitrogen",
+    "b": "fine particles and gases from burning and traffic",
+    "c": "the Moon",
+    "d": "ocean salt alone",
+    "correct": "B",
+    "explanation": "Smoke from burning, vehicle exhaust, and dust supply the particles that make haze. Pure nitrogen is the bulk of clean air and does not create that haze."
+  },
+  {
+    "stem": "Composting is",
+    "a": "breaking down organic waste into a soil-like material",
+    "b": "burning plastic in the open",
+    "c": "pouring oil on soil",
+    "d": "burying glass as fertiliser",
+    "correct": "A",
+    "explanation": "Compost is made by the controlled decay of food and garden waste. The result can improve soil. Glass and waste oil are not composted in that way."
+  },
+  {
+    "stem": "A carbon sink is a system that",
+    "a": "only produces carbon dioxide",
+    "b": "measures wind",
+    "c": "blocks all sunlight",
+    "d": "stores more carbon than it releases",
+    "correct": "D",
+    "explanation": "Forests, soils, and the ocean can take in and store carbon. A sink removes carbon from the air on balance, rather than only emitting it."
+  },
+  {
+    "stem": "The greenhouse effect at a natural level is",
+    "a": "caused only by cities",
+    "b": "a type of earthquake",
+    "c": "necessary to keep Earth warm enough for life as we know it",
+    "d": "entirely harmful and new",
+    "correct": "C",
+    "explanation": "Without greenhouse gases, Earth's surface would be much colder. The problem is the extra warming from human emissions, not the existence of any greenhouse effect at all."
+  },
+  {
+    "stem": "Point-source pollution comes from",
+    "a": "the orbit of the Moon",
+    "b": "a single identifiable place, such as a pipe",
+    "c": "everywhere at once with no origin",
+    "d": "only the stratosphere",
+    "correct": "B",
+    "explanation": "A factory outfall is a point source. Fertiliser washing off many fields is a diffuse, or non-point, source."
+  },
+  {
+    "stem": "Non-point-source pollution is",
+    "a": "spread over a wide area",
+    "b": "always one factory pipe",
+    "c": "only noise from a single horn",
+    "d": "a single oil drum",
+    "correct": "A",
+    "explanation": "Runoff from streets and farms gathers pollutants from many places. It cannot be traced to one pipe as easily as a point source."
+  },
+  {
+    "stem": "Recycling aluminium cans mainly saves",
+    "a": "the ozone layer directly by itself",
+    "b": "rainfall",
+    "c": "the length of the day",
+    "d": "the energy and ore needed to make new metal",
+    "correct": "D",
+    "explanation": "Making aluminium from used cans uses far less energy than making it from ore. That is the practical environmental gain."
+  },
+  {
+    "stem": "A key cause of freshwater pollution in many rural areas is",
+    "a": "clean rain with no contact with land",
+    "b": "the colour of the sky",
+    "c": "untreated sewage and agricultural runoff",
+    "d": "moonlight",
+    "correct": "C",
+    "explanation": "Sewage adds pathogens and nutrients, and farm runoff adds fertiliser and sediment. Clean rain becomes polluted when it picks up material on land."
+  },
+  {
+    "stem": "Climate adaptation means",
+    "a": "removing all rivers",
+    "b": "adjusting to the effects of climate change",
+    "c": "denying that weather exists",
+    "d": "stopping the Earth's orbit",
+    "correct": "B",
+    "explanation": "Adaptation includes actions such as better drainage, heat planning, and drought-resistant crops. Reducing emissions is mitigation, a related but different task."
+  },
+  {
+    "stem": "Climate mitigation means",
+    "a": "reducing the causes of climate change, especially greenhouse gas emissions",
+    "b": "only building sea walls",
+    "c": "measuring yesterday's rainfall",
+    "d": "naming new clouds",
+    "correct": "A",
+    "explanation": "Mitigation acts on the cause, for example by using less fossil fuel or storing carbon. Sea walls are a form of adaptation to impacts that are already expected."
+  },
+  {
+    "stem": "Carrying capacity of an environment is",
+    "a": "the weight of one rain gauge",
+    "b": "the speed of light",
+    "c": "the number of cloud types",
+    "d": "the largest population it can support over time",
+    "correct": "D",
+    "explanation": "If a population stays above carrying capacity, food, water, or other resources are overused. The term is about long-term support, not a measuring instrument."
+  }
+]

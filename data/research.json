@@ -1,0 +1,452 @@
+[
+  {
+    "stem": "The first step of a typical scientific investigation is to",
+    "a": "publish a conclusion with no question",
+    "b": "ask a clear question or identify a problem",
+    "c": "ignore observations",
+    "d": "change the data to fit a belief",
+    "correct": "B",
+    "explanation": "Research starts from a question that can be investigated. The conclusion comes after evidence has been collected and examined."
+  },
+  {
+    "stem": "A hypothesis is",
+    "a": "the final law of nature",
+    "b": "a list of references only",
+    "c": "the raw table of numbers",
+    "d": "a testable proposed explanation",
+    "correct": "D",
+    "explanation": "A hypothesis states what the researcher thinks may be true, in a form that evidence can support or contradict. It is not yet a settled law."
+  },
+  {
+    "stem": "An independent variable is the factor that the researcher",
+    "a": "hides from the record",
+    "b": "always keeps unknown",
+    "c": "changes or selects",
+    "d": "only measures as the outcome",
+    "correct": "C",
+    "explanation": "The independent variable is the input that is changed. The dependent variable is the outcome that is measured."
+  },
+  {
+    "stem": "A dependent variable is",
+    "a": "the list of authors",
+    "b": "the outcome that is measured",
+    "c": "the factor the researcher deliberately changes",
+    "d": "the title of the paper",
+    "correct": "B",
+    "explanation": "The dependent variable responds to the change under study. For example, rainfall might be measured while the season, the independent factor, changes."
+  },
+  {
+    "stem": "A control in an experiment is used to",
+    "a": "provide a comparison in which the factor under test is absent or unchanged",
+    "b": "guarantee the desired result",
+    "c": "replace all measurements",
+    "d": "hide inconvenient data",
+    "correct": "A",
+    "explanation": "The control shows what happens without the treatment. The difference between control and treatment is the evidence."
+  },
+  {
+    "stem": "A sample is",
+    "a": "the entire population in every case",
+    "b": "a unit of pressure",
+    "c": "a type of cloud",
+    "d": "a subset of a population",
+    "correct": "D",
+    "explanation": "Researchers usually cannot measure every member of a population, so they study a sample and generalise with care."
+  },
+  {
+    "stem": "A population in statistics is",
+    "a": "a single measurement",
+    "b": "the mean of a sample",
+    "c": "the whole group about which a conclusion is wanted",
+    "d": "only the people in one city",
+    "correct": "C",
+    "explanation": "The population is the full set of interest, such as all days in a climate record. A sample is the part actually observed."
+  },
+  {
+    "stem": "Random sampling means that",
+    "a": "no list is needed and choice is secret",
+    "b": "every member has a known chance of being chosen",
+    "c": "the researcher picks only favourable cases",
+    "d": "the first item is always chosen",
+    "correct": "B",
+    "explanation": "In a simple random sample, each member has an equal chance. Choosing only convenient or favourable cases is bias, not random sampling."
+  },
+  {
+    "stem": "Bias in a sample means the sample",
+    "a": "systematically misrepresents the population",
+    "b": "is always very large",
+    "c": "has no error of any kind",
+    "d": "is the same as a census",
+    "correct": "A",
+    "explanation": "A biased sample leans in one direction, so averages drawn from it can be misleading. A large sample can still be biased if the method of selection is poor."
+  },
+  {
+    "stem": "The mean is",
+    "a": "the middle value after sorting",
+    "b": "the most frequent value",
+    "c": "the largest minus the smallest",
+    "d": "the arithmetic average",
+    "correct": "D",
+    "explanation": "The mean is the sum divided by the number of values. The middle value is the median, and the most frequent value is the mode."
+  },
+  {
+    "stem": "The median is",
+    "a": "always larger than the mean",
+    "b": "the range",
+    "c": "the middle value when the data are ordered",
+    "d": "the sum of all values",
+    "correct": "C",
+    "explanation": "Order the observations and take the middle one. The median is less pulled by a single extreme value than the mean is."
+  },
+  {
+    "stem": "The mode is",
+    "a": "the total",
+    "b": "the most frequent value",
+    "c": "the average",
+    "d": "the middle value",
+    "correct": "B",
+    "explanation": "If 12 mm appears more often than any other rainfall amount in a list, 12 mm is the mode."
+  },
+  {
+    "stem": "The range of a data set is",
+    "a": "the largest value minus the smallest",
+    "b": "the mean",
+    "c": "the sample size",
+    "d": "the mode times the median",
+    "correct": "A",
+    "explanation": "Range is a simple measure of spread. A set running from 2 to 20 has a range of 18."
+  },
+  {
+    "stem": "A null hypothesis usually states that",
+    "a": "the researcher's favourite result is already true",
+    "b": "the data need not be collected",
+    "c": "every correlation is a cause",
+    "d": "there is no effect, or no difference",
+    "correct": "D",
+    "explanation": "The null is the default claim of no difference. Evidence is then used to see whether that claim should be rejected."
+  },
+  {
+    "stem": "Correlation means",
+    "a": "the sample is the whole population",
+    "b": "the mean is zero",
+    "c": "two variables vary together",
+    "d": "one variable has been proved to cause the other",
+    "correct": "C",
+    "explanation": "A correlation shows an association. It does not by itself prove that one variable causes the other."
+  },
+  {
+    "stem": "Causation means",
+    "a": "the median equals the mode",
+    "b": "a change in one variable brings about a change in another",
+    "c": "two lines on a graph look similar for any reason",
+    "d": "a sample was chosen at random",
+    "correct": "B",
+    "explanation": "Cause is a stronger claim than association. An experiment or a careful design is usually needed before a cause is accepted."
+  },
+  {
+    "stem": "Primary data are",
+    "a": "collected by the researcher for the study",
+    "b": "only data published by someone else",
+    "c": "always more than 100 years old",
+    "d": "data that cannot be checked",
+    "correct": "A",
+    "explanation": "A rainfall record the researcher measures is primary data. A table copied from an earlier report is secondary data."
+  },
+  {
+    "stem": "Secondary data are",
+    "a": "data that do not exist",
+    "b": "only laboratory chemicals",
+    "c": "the hypothesis",
+    "d": "data already collected by others",
+    "correct": "D",
+    "explanation": "Census tables, published climate normals, and earlier papers are secondary sources. They were gathered for another purpose or by another person."
+  },
+  {
+    "stem": "Quantitative data are",
+    "a": "always drawings with no scale",
+    "b": "the names of authors",
+    "c": "numerical",
+    "d": "only opinions in words",
+    "correct": "C",
+    "explanation": "Rainfall in millimetres and temperature in degrees are quantitative. Descriptions in words, without numbers, are qualitative."
+  },
+  {
+    "stem": "Qualitative data are",
+    "a": "the standard deviation",
+    "b": "descriptive rather than numerical",
+    "c": "always counts and measurements",
+    "d": "only the mean",
+    "correct": "B",
+    "explanation": "A description of cloud type in words is qualitative. A measured cloud-base height in metres is quantitative."
+  },
+  {
+    "stem": "Reliability of a measurement means",
+    "a": "repeating it gives similar results",
+    "b": "it measures a different concept each time",
+    "c": "it is secret",
+    "d": "it has no unit",
+    "correct": "A",
+    "explanation": "A reliable instrument or procedure is consistent. Validity is the separate question of whether it measures the right thing."
+  },
+  {
+    "stem": "Validity means",
+    "a": "the same wrong result every time",
+    "b": "the sample is as small as possible",
+    "c": "no definition is needed",
+    "d": "the method measures what it is intended to measure",
+    "correct": "D",
+    "explanation": "A test can be reliable but still invalid if it consistently measures the wrong quantity. Validity is about being on target."
+  },
+  {
+    "stem": "An outlier is",
+    "a": "the sample size",
+    "b": "a missing reference",
+    "c": "a value far from the other observations",
+    "d": "the mean",
+    "correct": "C",
+    "explanation": "An outlier lies well outside the cluster of the rest of the data. It may be a real extreme or an error, so it should be checked rather than ignored automatically."
+  },
+  {
+    "stem": "A census differs from a sample because a census",
+    "a": "cannot be counted",
+    "b": "attempts to include every member of the population",
+    "c": "includes only one person",
+    "d": "is always biased",
+    "correct": "B",
+    "explanation": "A census is a complete enumeration. A sample studies only part of the population."
+  },
+  {
+    "stem": "Peer review means that a report is",
+    "a": "examined by other experts before publication",
+    "b": "accepted without being read",
+    "c": "written by the editor alone",
+    "d": "kept secret from all scientists",
+    "correct": "A",
+    "explanation": "Independent specialists check the methods and claims. Review reduces, but does not remove, the chance of error."
+  },
+  {
+    "stem": "A literature review is",
+    "a": "the raw data table",
+    "b": "the budget only",
+    "c": "a weather map",
+    "d": "a survey of existing research on the topic",
+    "correct": "D",
+    "explanation": "Before new work, the researcher reads what is already known. That summary of earlier studies is the literature review."
+  },
+  {
+    "stem": "Plagiarism is",
+    "a": "repeating an experiment",
+    "b": "calculating a mean",
+    "c": "presenting someone else's work as one's own",
+    "d": "citing a source",
+    "correct": "C",
+    "explanation": "Using another person's words or ideas without acknowledgement is plagiarism. Proper citation avoids it."
+  },
+  {
+    "stem": "A citation is",
+    "a": "a type of average",
+    "b": "a reference to the source of information",
+    "c": "a hidden copy",
+    "d": "an unmeasured variable",
+    "correct": "B",
+    "explanation": "A citation tells the reader where a fact or quotation came from, so the claim can be checked."
+  },
+  {
+    "stem": "In a graph of rainfall against month, the dependent variable is usually",
+    "a": "rainfall",
+    "b": "the month",
+    "c": "the title",
+    "d": "the colour of the ink",
+    "correct": "A",
+    "explanation": "Rainfall is the outcome being shown, so it is plotted as the dependent variable, often on the vertical axis. Month is the independent variable."
+  },
+  {
+    "stem": "A bar chart is suitable for",
+    "a": "showing the chemical formula of ozone only",
+    "b": "replacing the data",
+    "c": "hiding the scale",
+    "d": "comparing amounts in separate categories",
+    "correct": "D",
+    "explanation": "Bars compare quantities across categories, such as rainfall by month. The scale must be shown so the lengths can be read."
+  },
+  {
+    "stem": "A line graph is often used to show",
+    "a": "a single word",
+    "b": "the ethics statement only",
+    "c": "change over time",
+    "d": "a list of authors",
+    "correct": "C",
+    "explanation": "A line connects values in order, so it shows a trend, such as temperature through the year."
+  },
+  {
+    "stem": "Interpolation is",
+    "a": "changing the units secretly",
+    "b": "estimating a value between known points",
+    "c": "inventing a value far outside the data with no caution",
+    "d": "deleting the data",
+    "correct": "B",
+    "explanation": "If rainfall is known for June and August, estimating July from those neighbours is interpolation. Estimating beyond the last point is extrapolation."
+  },
+  {
+    "stem": "Extrapolation is",
+    "a": "extending a pattern beyond the range of the data",
+    "b": "reading a value that was measured directly",
+    "c": "counting the sample",
+    "d": "writing the title",
+    "correct": "A",
+    "explanation": "Extrapolation continues a trend outside the observations. It is less secure than interpolation because the pattern may change."
+  },
+  {
+    "stem": "A significant figure in a measurement reflects",
+    "a": "the importance of the author",
+    "b": "the font size",
+    "c": "the number of references",
+    "d": "the precision with which the number is known",
+    "correct": "D",
+    "explanation": "Writing 12.0 mm claims more precision than writing 12 mm. Digits that are justified by the measurement are significant figures."
+  },
+  {
+    "stem": "Rounding 16.48 to the nearest whole number gives",
+    "a": "17",
+    "b": "20",
+    "c": "16",
+    "d": "16.5",
+    "correct": "C",
+    "explanation": "The first decimal digit is 4, which is less than 5, so the whole number stays 16. A digit of 5 or more would round the number up."
+  },
+  {
+    "stem": "A percentage error compares the error with",
+    "a": "the page count",
+    "b": "the true or accepted value",
+    "c": "the name of the instrument",
+    "d": "the number of authors",
+    "correct": "B",
+    "explanation": "Percentage error is the absolute error divided by the accepted value, multiplied by 100. It shows the size of the mistake relative to the quantity itself."
+  },
+  {
+    "stem": "Reproducibility means",
+    "a": "an independent worker can obtain a similar result",
+    "b": "the result is secret",
+    "c": "the method is not described",
+    "d": "only one person may ever try it",
+    "correct": "A",
+    "explanation": "A scientific result should be obtainable again by someone who follows the method. That is why methods must be reported."
+  },
+  {
+    "stem": "An abstract of a paper is",
+    "a": "the full data archive",
+    "b": "a blank page",
+    "c": "the list of instruments only",
+    "d": "a short summary of the work",
+    "correct": "D",
+    "explanation": "The abstract states the question, method, and main findings in a few paragraphs so a reader can see the point quickly."
+  },
+  {
+    "stem": "A variable that is held constant is called",
+    "a": "an outlier",
+    "b": "the mode",
+    "c": "a controlled variable",
+    "d": "the dependent variable",
+    "correct": "C",
+    "explanation": "Controlled variables are kept the same so they do not confuse the result. Only the independent variable is deliberately changed."
+  },
+  {
+    "stem": "A double-blind trial is one in which",
+    "a": "the hypothesis is hidden from the author forever",
+    "b": "neither the participant nor the observer knows who received the treatment",
+    "c": "everyone knows the result in advance",
+    "d": "no data are recorded",
+    "correct": "B",
+    "explanation": "Keeping both sides unaware reduces bias in how the treatment is given and how the outcome is judged. It is common in medical trials."
+  },
+  {
+    "stem": "Informed consent means that a participant",
+    "a": "agrees after being told what the study involves",
+    "b": "is included without being asked",
+    "c": "must be paid double the mean",
+    "d": "writes the conclusion",
+    "correct": "A",
+    "explanation": "People should know the nature of a study and freely agree to take part. Including them in secret is not informed consent."
+  },
+  {
+    "stem": "A time series is",
+    "a": "a list of unrelated names",
+    "b": "a single average with no dates",
+    "c": "a map with no scale",
+    "d": "a sequence of observations in time order",
+    "correct": "D",
+    "explanation": "Monthly rainfall from 1990 to 2020 is a time series. Order in time is essential."
+  },
+  {
+    "stem": "A moving average is used to",
+    "a": "change the units",
+    "b": "count the authors",
+    "c": "smooth short-term ups and downs in a series",
+    "d": "delete the series",
+    "correct": "C",
+    "explanation": "Averaging neighbouring values reduces noise so a longer trend is easier to see. It does not remove the need to look at the original data."
+  },
+  {
+    "stem": "Standard deviation measures",
+    "a": "the number of graphs",
+    "b": "how spread out the values are around the mean",
+    "c": "the middle value only",
+    "d": "the sample title",
+    "correct": "B",
+    "explanation": "A small standard deviation means the values cluster near the mean. A large one means they are widely scattered."
+  },
+  {
+    "stem": "If two data sets have the same mean but one has a larger standard deviation, that set is",
+    "a": "more spread out",
+    "b": "smaller in every value",
+    "c": "free of numbers",
+    "d": "the median",
+    "correct": "A",
+    "explanation": "The means match, so the typical level is similar. The larger standard deviation shows greater scatter about that mean."
+  },
+  {
+    "stem": "A scatter plot is used to look for",
+    "a": "the spelling of a word",
+    "b": "a list of chapters",
+    "c": "the date of publication only",
+    "d": "a relationship between two numerical variables",
+    "correct": "D",
+    "explanation": "Each point has two coordinates, such as temperature and humidity. The pattern of points suggests whether the variables move together."
+  },
+  {
+    "stem": "A conclusion in a report should",
+    "a": "introduce new measurements that were never made",
+    "b": "omit the question",
+    "c": "follow from the evidence",
+    "d": "contradict the data on purpose",
+    "correct": "C",
+    "explanation": "The conclusion answers the research question using the results. Claims that the data do not support do not belong there."
+  },
+  {
+    "stem": "An anomaly in a climate series is",
+    "a": "the number of authors",
+    "b": "the difference between a value and the long-term average",
+    "c": "the name of the station",
+    "d": "the instrument brand",
+    "correct": "B",
+    "explanation": "A temperature anomaly of +1°C means that month was one degree warmer than the chosen normal. Anomalies make departures from the usual climate easy to see."
+  },
+  {
+    "stem": "Replication in an experiment means",
+    "a": "repeating the trial so the result is not based on one case",
+    "b": "doing the trial once and stopping",
+    "c": "changing the method every time",
+    "d": "hiding the procedure",
+    "correct": "A",
+    "explanation": "Several repeats show whether a result is stable or a one-off accident. A single trial is a weak basis for a general claim."
+  },
+  {
+    "stem": "The best description of the scientific attitude to a favoured hypothesis is that it should be",
+    "a": "protected by altering the data",
+    "b": "accepted because it is favoured",
+    "c": "kept secret from any test",
+    "d": "tested and given up if the evidence is against it",
+    "correct": "D",
+    "explanation": "A hypothesis is useful only if it can fail. When careful evidence contradicts it, the hypothesis is revised or rejected."
+  }
+]
