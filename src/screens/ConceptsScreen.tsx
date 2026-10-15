@@ -48,6 +48,20 @@ export function ConceptsScreen() {
           ))}
         </article>
       ))}
+      {topic.calculations && topic.calculations.length > 0 && (
+        <section>
+          <h2 className="section">Worked calculations</h2>
+          <p className="lead">Each of these is one step, the sort of sum an interview asks out loud. Read the given numbers, do that one step, then check the answer.</p>
+          {topic.calculations.map((sum) => (
+            <article className="worked" key={sum.title}>
+              <h3>{sum.title}</h3>
+              <p><strong>Given. </strong>{sum.given}</p>
+              <p><strong>Working. </strong>{sum.working}</p>
+              <p className="answer"><strong>Answer. </strong>{sum.answer}</p>
+            </article>
+          ))}
+        </section>
+      )}
       <div className="actions">
         <Link className="primary" to={`/quiz/${slug}?mode=practice`}>Practice this topic</Link>
         <Link className="ghost" to="/">All topics</Link>

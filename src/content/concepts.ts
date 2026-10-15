@@ -12,10 +12,18 @@ export type Concept = {
   figure?: ConceptFigure
 }
 
+export type WorkedCalculation = {
+  title: string
+  given: string
+  working: string
+  answer: string
+}
+
 export type ConceptTopic = {
   title: string
   intro: string
   items: Concept[]
+  calculations?: WorkedCalculation[]
 }
 
 const coriolis: ConceptFigure = {
@@ -593,6 +601,38 @@ export const CONCEPTS: Record<string, ConceptTopic> = {
         ],
       },
     ],
+    calculations: [
+      {
+        title: 'Humidity from a vapour pressure',
+        given: 'The vapour pressure is 12 hPa. The saturation vapour pressure at that temperature is 30 hPa.',
+        working: 'Relative humidity = (vapour pressure ÷ saturation vapour pressure) × 100 = 12 ÷ 30 × 100.',
+        answer: '40 percent.',
+      },
+      {
+        title: 'The same air, warmed',
+        given: 'The vapour pressure stays 12 hPa. Warming raises the saturation vapour pressure to 40 hPa.',
+        working: 'Relative humidity = 12 ÷ 40 × 100. The air did not lose water. The ceiling got higher.',
+        answer: '30 percent.',
+      },
+      {
+        title: 'Cooling with height',
+        given: 'The surface is 30°C. The environmental lapse rate is 6.5°C per kilometre. Find the temperature 2 km up.',
+        working: 'The drop is 6.5 × 2 = 13°C. Temperature aloft = 30 − 13.',
+        answer: '17°C.',
+      },
+      {
+        title: 'A dry parcel rising',
+        given: 'Unsaturated air at 25°C rises 1 km. The dry adiabatic lapse rate is 10°C per kilometre.',
+        working: 'It cools by 10°C. New temperature = 25 − 10.',
+        answer: '15°C.',
+      },
+      {
+        title: 'A fall on the barometer',
+        given: 'The pressure was 1013 hPa. It is now 998 hPa.',
+        working: 'The fall is 1013 − 998.',
+        answer: '15 hPa.',
+      },
+    ],
   },
   climatology: {
     title: 'Climatology',
@@ -687,6 +727,32 @@ export const CONCEPTS: Record<string, ConceptTopic> = {
         ],
       },
     ],
+    calculations: [
+      {
+        title: 'A temperature anomaly',
+        given: 'July averages 27°C. The long-term July normal is 24°C.',
+        working: 'Anomaly = this value − the normal = 27 − 24.',
+        answer: '+3°C. The month was warmer than the normal.',
+      },
+      {
+        title: 'The annual temperature range',
+        given: 'The warmest month averages 35°C. The coldest averages 8°C.',
+        working: 'Range = warmest − coldest = 35 − 8.',
+        answer: '27°C. A large range is a sign of a continental climate.',
+      },
+      {
+        title: 'The daily range',
+        given: 'The afternoon high is 34°C. The night low is 19°C.',
+        working: 'Diurnal range = 34 − 19.',
+        answer: '15°C.',
+      },
+      {
+        title: 'How much of the year’s rain is the monsoon',
+        given: 'Annual rainfall is 400 mm. The summer monsoon months bring 280 mm.',
+        working: 'Share = 280 ÷ 400 × 100.',
+        answer: '70 percent of the year’s rain.',
+      },
+    ],
   },
   seismology: {
     title: 'Seismology',
@@ -769,6 +835,14 @@ export const CONCEPTS: Record<string, ConceptTopic> = {
           'Seismic waves have shown that Earth’s outer core is liquid because S waves do not cross it. P waves do, and they bend, which is why there is also a P-wave shadow.',
           'The same records separate the crust, the mantle and the core. Seismology is how the layered Earth in the geology section was first measured, rather than only imagined.',
         ],
+      },
+    ],
+    calculations: [
+      {
+        title: 'The gap between P and S',
+        given: 'The P wave arrives at 10:00:12. The S wave arrives at 10:00:20.',
+        working: 'Lag = S time − P time = 20 − 12 seconds.',
+        answer: '8 seconds. A station with a larger gap is farther from the earthquake.',
       },
     ],
   },
@@ -955,6 +1029,20 @@ export const CONCEPTS: Record<string, ConceptTopic> = {
         ],
       },
     ],
+    calculations: [
+      {
+        title: 'A cut in emissions',
+        given: 'A source emits 500 units of carbon dioxide a year and cuts that by 10 percent.',
+        working: 'The cut is 10 percent of 500, which is 50. The new total is 500 − 50.',
+        answer: '450 units a year. That cut is mitigation.',
+      },
+      {
+        title: 'How much forest is left',
+        given: 'A reserve is 100 units of forest. Twenty percent is cleared.',
+        working: 'Cleared = 20. Remaining = 100 − 20.',
+        answer: '80 units remain. The cleared share is the part that stops storing carbon.',
+      },
+    ],
   },
   physics: {
     title: 'Basics of Physics',
@@ -1037,6 +1125,38 @@ export const CONCEPTS: Record<string, ConceptTopic> = {
         ],
       },
     ],
+    calculations: [
+      {
+        title: 'Pressure from force and area',
+        given: 'A force of 200 newtons acts on an area of 0.5 square metres.',
+        working: 'Pressure = force ÷ area = 200 ÷ 0.5.',
+        answer: '400 pascals.',
+      },
+      {
+        title: 'Current from Ohm’s law',
+        given: 'The voltage is 12 volts. The resistance is 4 ohms.',
+        working: 'V = IR, so current = V ÷ R = 12 ÷ 4.',
+        answer: '3 amperes.',
+      },
+      {
+        title: 'Density, and whether it floats',
+        given: 'A specimen has mass 250 g and volume 100 cm³. Water is about 1 g/cm³.',
+        working: 'Density = mass ÷ volume = 250 ÷ 100.',
+        answer: '2.5 g/cm³. It is denser than water, so it sinks.',
+      },
+      {
+        title: 'Wave speed',
+        given: 'The frequency is 5 hertz. The wavelength is 2 metres.',
+        working: 'Speed = frequency × wavelength = 5 × 2.',
+        answer: '10 metres per second.',
+      },
+      {
+        title: 'Celsius to kelvin',
+        given: 'The air temperature is 27°C. Absolute zero is about −273°C, so kelvin = Celsius + 273.',
+        working: '27 + 273.',
+        answer: '300 K. A temperature of 0°C is about 273 K.',
+      },
+    ],
   },
   mathematics: {
     title: 'Basic Mathematics',
@@ -1117,6 +1237,38 @@ export const CONCEPTS: Record<string, ConceptTopic> = {
           'A line graph is for a sequence. Daily temperature, or a pressure trace, belongs on a line. Reading between two plotted points is interpolation. Extending the line past the last point is extrapolation, and it is a guess.',
           'On a map, 1 cm represents 5 km. A line of 4 cm represents 20 km. Four pencils that cost 80 cost 20 each. The next term in 5, 10, 20, 40 is 80, because each term is doubled. The next term in 2, 6, 18, 54 is 162, because each term is multiplied by 3.',
         ],
+      },
+    ],
+    calculations: [
+      {
+        title: 'A percent of a number',
+        given: 'Find 25 percent of 640.',
+        working: '25 percent is one quarter. 640 ÷ 4.',
+        answer: '160.',
+      },
+      {
+        title: 'An average',
+        given: 'Four daily rainfall readings are 12 mm, 18 mm, 25 mm and 9 mm.',
+        working: 'Total = 12 + 18 + 25 + 9 = 64. Mean = 64 ÷ 4.',
+        answer: '16 mm a day.',
+      },
+      {
+        title: 'Multiply before you subtract',
+        given: 'Find 15 − 3 × 2.',
+        working: '3 × 2 = 6 first. Then 15 − 6.',
+        answer: '9. It is not 24.',
+      },
+      {
+        title: 'A map distance',
+        given: 'The scale says 1 cm represents 5 km. The line on the map is 4 cm.',
+        working: '4 × 5.',
+        answer: '20 km.',
+      },
+      {
+        title: 'A percentage increase',
+        given: 'A value rises from 200 to 250.',
+        working: 'The increase is 50. As a percent of the original, 50 ÷ 200 × 100.',
+        answer: '25 percent.',
       },
     ],
   },
