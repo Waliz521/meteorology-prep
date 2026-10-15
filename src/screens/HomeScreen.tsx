@@ -76,6 +76,9 @@ export function HomeScreen({ userId }: Props) {
                     {top != null && <span className="pill">Best {top}</span>}
                   </div>
                   <div className="actions">
+                    <Link className="ghost" to={`/concepts/${topic.slug}`}>
+                      Concepts
+                    </Link>
                     {count > 0 ? (
                       <>
                         <Link className="primary" to={`/quiz/${topic.slug}?mode=practice`}>

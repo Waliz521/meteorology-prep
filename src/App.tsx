@@ -7,6 +7,7 @@ import { HomeScreen } from './screens/HomeScreen'
 import { QuizScreen } from './screens/QuizScreen'
 import { HistoryScreen } from './screens/HistoryScreen'
 import { AdminScreen } from './screens/AdminScreen'
+import { ConceptsScreen } from './screens/ConceptsScreen'
 
 export default function App() {
   const [session, setSession] = useState<Session | null>(null)
@@ -67,6 +68,7 @@ export default function App() {
       <Routes>
         <Route path="/" element={<HomeScreen userId={session.user.id} />} />
         <Route path="/quiz/:slug" element={<QuizScreen userId={session.user.id} />} />
+        <Route path="/concepts/:slug" element={<ConceptsScreen />} />
         <Route path="/history" element={<HistoryScreen userId={session.user.id} />} />
         <Route path="/admin" element={isAdmin ? <AdminScreen /> : <Navigate to="/" replace />} />
       </Routes>

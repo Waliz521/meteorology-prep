@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="540" viewBox="-2 -48 90 180" stroke="#000" stroke-width=".3" filter="url(#f)">
+<filter id="f">
+<feTurbulence baseFrequency="1" result="turb" />
+<feComposite in="SourceGraphic" in2="turb" operator="in" result="comp" />
+<feBlend in="SourceGraphic" in2="comp" mode="multiply"/>
+</filter>
+<g id="b">
+<path fill="#820" d="M59,69h-48v-9l51-9l6,9zl-6-9"/>
+<path fill="#c96" d="M53,60h-42v-9h45-9"/>
+<path fill="#fc9" d="M47,51h-36v-9l39-9l6,9zl-6-9"/>
+<g id="l">
+<g id="r" fill="#390">
+<path d="M11,42h30l9-9h-30z"/>
+<path stroke="#039" stroke-width="1" d="M16,37c7,7 24-6 30,0"/>
+</g>
+<path fill="#630" d="M23,15v21q2-1 4,0z"/>
+<path fill="#360" d="M24,16a9,6 0 1 0 .1,0m6,2a9,5 120 1 0 0,.1m1,8a9,5 240 1 0 0,.1"/>
+</g>
+</g>
+<g id="c">
+<path d="M75,66h-18l6,9h12zv9l9-9v-9" fill="#820"/>
+<path d="M75,57h-24l6,9h18zv9l9-9v-9" fill="#c96"/>
+<path d="M75,48h-30l6,9h24zv9l9-9v-9" fill="#fc9"/>
+<use href="#r" y="6" x="34"/>
+</g>
+<path id="a" d="M61,60l2-2l3,3l1-1v4h-4l1-1z"/>
+<use href="#b" y="60"/>
+<use href="#c" y="48" x="-8"/>
+<use href="#a" transform="matrix(-1,0 0-1 121,171)"/>
+<g id="d" fill="#fc9">
+<use href="#e" fill="#820" y="18"/>
+<use href="#e" fill="#c96" y="9"/>
+<path id="e" d="M41-9h-30v-9l39-9v9zv-9"/>
+</g>
+<use href="#d" y="-4" x="34"/>
+<use href="#r" y="-64" x="34"/>
+<use href="#l" y="-60"/>
+<use href="#a" transform="matrix(0-1 1,0 18,52)"/>
+<text>A</text>
+<text y="60">B</text>
+<text y="120">C</text>
+</svg>
